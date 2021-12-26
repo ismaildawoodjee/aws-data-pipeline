@@ -1,0 +1,13 @@
+*.venv
+*.vscode
+*.metals
+
+__pycache__
+
+*.csv
+*.json
+
+!sample.csv
+!malware_file_detection.csv
+
+temp

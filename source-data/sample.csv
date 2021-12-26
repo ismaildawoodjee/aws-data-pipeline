@@ -1,0 +1,1001 @@
+DownloadSource,TopLevelDomain,DownloadSpeed,PingTimeToServer,FileSizeBytes,HowManyTimesFileSeen,ExecutableCodeMaybePresentInHeaders,CallsToLowLevelSystemLibraries,EvidenceOfCodeObfuscation,ThreadsStarted,MeanWordLengthOfExtractedStrings,SimilarityScore,CharactersInUrl,ActuallyMalicious,InitialStatisticalAnalysis
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,301,2572377.0,524,NO,206.0,YES,3,4.62,-1.074513175,32,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,306,10852204.0,469,YES,1118.0,YES,1,5.35,1.203042511,76,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,80,3278184.0,674,NO,269.0,YES,2,4.13,-0.451281335,61,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,227,3862980.0,426,NO,322.0,YES,3,4.29,0.233754477,84,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,139,8286101.0,600,NO,790.0,NO,1,5.11,1.869800279,50,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,62,12429592.0,679,YES,,YES,1,4.95,-0.143373348,85,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,180,7286147.0,520,NO,674.0,NO,2,5.3,-1.396576678,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,71,5367230.0,635,YES,,YES,2,4.17,1.236287658,57,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,218,10336387.0,633,NO,1048.0,YES,1,4.83,-0.508278819,60,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,484,5068685.0,554,NO,439.0,NO,1,4.33,-0.553638789,27,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,423,6311331.0,616,YES,567.0,YES,1,4.57,1.335511439,92,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,205,13068675.0,620,NO,1439.0,YES,1,4.37,1.549613305,64,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,243,5745586.0,485,NO,507.0,NO,1,5.56,0.304804117,102,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,344,525064.0,639,NO,39.0,NO,1,5.95,-1.597877695,74,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,159,12790793.0,669,NO,1397.0,NO,4,5.32,-0.323955469,72,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,47,724791.0,648,YES,55.0,YES,1,4.3,-0.488371944,64,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,178,5922824.0,677,YES,526.0,NO,2,4.83,1.670072047,91,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,229,1986426.0,635,YES,156.0,YES,1,4.26,0.849938676,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,677,7498694.0,538,NO,,NO,1,5.44,0.542429411,70,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,675,3146607.0,523,NO,,YES,3,5.13,0.825342523,83,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,184,6276469.0,641,YES,563.0,NO,3,4.98,1.580207242,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,124,2548723.0,600,NO,204.0,YES,1,5.54,0.918405746,62,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,128,3615461.0,647,NO,299.0,YES,2,4.38,0.251481505,54,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,31,12198273.0,510,NO,1309.0,YES,2,4.58,-0.347558679,69,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,160,6587121.0,521,NO,597.0,NO,3,5.33,1.142879277,90,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,47,12852661.0,608,NO,1406.0,NO,2,5.33,1.214585508,77,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,232,12223409.0,664,NO,1312.0,NO,2,4.2,0.89131049,71,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,159,2667491.0,477,YES,214.0,YES,1,5.58,-0.370266608,103,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,343,14311912.0,642,NO,1636.0,YES,3,4.5,-0.457441928,78,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,546,3630953.0,589,NO,301.0,NO,2,5.49,-0.795263436,34,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,196,9737305.0,577,NO,970.0,YES,1,4.46,1.39032176,61,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,195,6503682.0,634,YES,588.0,NO,1,5.32,-0.2867443,54,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,327,11849763.0,743,YES,1258.0,NO,2,5.43,0.86819486,85,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,31,8948526.0,640,YES,,NO,1,5.14,-0.588104796,78,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,104,14940330.0,719,NO,1741.0,NO,2,5.24,-0.568260027,50,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,482,14127115.0,387,YES,,NO,2,4.41,1.404227866,71,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,252,866526.0,775,YES,66.0,YES,1,5.31,1.274735187,49,YES,Correctly Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,131,2493893.0,591,YES,199.0,NO,1,5.19,0.163786098,65,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,27,666513.0,582,NO,50.0,NO,1,5.8,0.374810095,64,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,107,552673.0,556,YES,41.0,YES,1,5.32,-0.75104332,74,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,100,30256790.0,462,NO,,NO,1,4.53,-0.69491632,74,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,41,17561995.0,728,NO,,YES,2,4.64,0.330106081,62,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,408,18834515.0,421,NO,2467.0,NO,2,5.0,0.63241574,69,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,414,8915652.0,411,NO,866.0,NO,2,4.39,0.258930371,68,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,450,8895812.0,602,YES,864.0,NO,1,5.41,-0.100022012,56,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,223,17181930.0,756,NO,2141.0,YES,2,4.75,-0.973238978,54,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,580,7537489.0,443,YES,703.0,YES,1,4.33,-0.477164093,52,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,41,7881893.0,505,YES,743.0,YES,1,5.17,-0.881360698,92,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,162,5255191.0,606,NO,,NO,1,5.16,0.567333905,73,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,210,2989683.0,594,NO,243.0,YES,2,4.18,-0.502955934,63,NO,Incorrecty Identified as Malware
+Git Repository,.com,100KB/s to 1MB/s,196,26602123.0,529,YES,4400.0,YES,1,5.29,0.23084205,66,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,546,18016368.0,636,NO,2302.0,YES,1,4.45,-1.518871178,96,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,206,20113190.0,244,NO,2738.0,YES,2,5.23,0.751166128,85,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,67,7289565.0,429,NO,675.0,YES,1,5.67,-0.72516023,55,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,150,8103156.0,599,YES,768.0,NO,1,4.9,-2.164208098,52,NO,Incorrecty Identified as Malware
+Git Repository,.com,100KB/s to 1MB/s,229,20969160.0,618,NO,2928.0,YES,3,5.12,0.417329514,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,115,1412354.0,656,YES,109.0,YES,3,5.55,0.946994526,83,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,335,9156218.0,677,YES,896.0,NO,2,5.31,0.192579109,77,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,281,676601.0,575,NO,51.0,YES,1,5.49,-0.829222742,58,YES,Incorrectly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,143,21223339.0,594,NO,2987.0,YES,1,5.27,0.978261019,71,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,223,15813841.0,565,NO,1891.0,NO,2,5.31,-0.942507356,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,183,14769672.0,523,YES,1712.0,NO,2,5.77,-0.457158511,71,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,285,3613924.0,603,YES,299.0,YES,1,4.7,0.346129013,86,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,360,8885658.0,713,NO,863.0,YES,2,3.97,-0.045701719,48,NO,Correctly Identified as Clean
+Git Repository,.net,1MB/s to 10MB/s,185,14017803.0,543,NO,1588.0,NO,2,4.56,0.676287758,57,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,229,719672.0,649,NO,54.0,NO,1,6.16,-0.211670598,44,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,795,12084765.0,566,NO,1292.0,NO,2,5.15,-0.739369206,92,NO,Correctly Identified as Clean
+University Web Pages,.net,100KB/s to 1MB/s,377,10972231.0,624,NO,1134.0,YES,2,4.51,-1.22521119,66,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,236,5659945.0,565,YES,499.0,YES,3,4.69,-0.194312983,100,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,129,3775376.0,500,YES,314.0,NO,1,5.16,-0.46840065,64,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,134,6572407.0,658,YES,595.0,YES,2,5.61,-0.339729576,39,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,814,8907762.0,482,NO,865.0,YES,3,4.87,-1.129498855,48,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,164,16859966.0,512,YES,2081.0,NO,3,4.26,-0.125121524,75,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,325,2907459.0,571,YES,236.0,NO,1,5.5,-1.283606329,82,NO,Correctly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,52,16633489.0,744,YES,2039.0,YES,2,4.39,-0.095176207,69,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,249,3322456.0,589,YES,273.0,NO,1,4.48,-0.006813567,86,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,241,21239617.0,682,YES,2990.0,YES,2,4.3,0.038586368,44,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,230,4086539.0,488,YES,343.0,YES,2,4.62,1.229684376,81,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,407,650976.0,681,NO,49.0,YES,2,4.7,-1.658174153,79,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,87,18946505.0,608,NO,2490.0,NO,3,5.03,-0.197865959,81,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,88,12566349.0,677,YES,1363.0,NO,1,5.09,1.500779275,62,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,365,11000211.0,592,YES,1138.0,YES,2,4.86,-1.311388144,64,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,754,3026073.0,604,NO,,YES,1,5.72,0.280349507,86,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,225,12836321.0,456,NO,1404.0,YES,1,5.08,-1.017633098,58,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,107,17774244.0,708,YES,2255.0,NO,2,3.97,-0.876896053,61,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,519,21206299.0,653,NO,2983.0,YES,2,4.88,1.24115468,54,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,330,17247410.0,698,NO,2154.0,NO,1,4.84,0.096244036,83,NO,Correctly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,216,12501743.0,688,YES,1353.0,NO,3,4.71,-1.043602689,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,90,17612590.0,544,NO,2224.0,NO,1,4.45,-0.118735427,55,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.edu,100KB/s to 1MB/s,195,3148614.0,673,YES,257.0,NO,2,5.47,0.215438628,62,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,196,9735887.0,555,NO,970.0,YES,2,5.65,1.328316365,49,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net.au,100KB/s to 1MB/s,163,28097261.0,894,YES,4861.0,YES,2,3.98,-1.394858933,55,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,92,12330133.0,679,NO,,NO,2,5.82,-0.47025849,85,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,57,27824847.0,686,NO,4775.0,YES,1,5.19,-0.878736539,91,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,33,12859376.0,722,YES,1407.0,NO,3,5.41,0.197012584,45,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,153,4559737.0,665,NO,389.0,YES,2,4.55,1.75276432,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,39,6618165.0,601,NO,600.0,YES,3,5.44,0.522308951,46,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,101,4577974.0,741,NO,390.0,NO,3,5.17,0.313600396,59,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,162,21004044.0,400,NO,2936.0,NO,2,4.01,-1.520422215,68,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,158,2570523.0,519,NO,,YES,2,5.25,-1.229112412,71,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,416,2787478.0,464,YES,225.0,NO,2,4.55,1.134716776,75,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.org,1MB/s to 10MB/s,375,6453943.0,724,NO,582.0,NO,2,5.14,-0.288116691,68,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,286,13050230.0,748,NO,1436.0,NO,2,5.25,0.013748785,60,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,238,23819247.0,493,YES,3624.0,NO,3,4.68,0.4519785,54,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,229,4719769.0,647,NO,404.0,YES,2,4.34,-0.19559761,79,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,103,2878572.0,644,NO,233.0,YES,3,5.63,-0.177842381,77,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,502,3523320.0,628,NO,291.0,YES,1,4.87,-0.975617514,63,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,194,2066342.0,392,NO,163.0,YES,1,4.44,-0.377103448,64,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,128,8016283.0,517,YES,758.0,YES,1,5.37,-0.445870016,60,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,109,1895311.0,630,YES,149.0,NO,2,5.17,0.585069896,75,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,437,1134194.0,611,YES,87.0,YES,1,4.53,0.840743113,77,NO,Correctly Identified as Clean
+Exposed Corporate Intranet Pages,.net,100KB/s to 1MB/s,387,16909026.0,537,NO,2090.0,YES,2,5.19,-0.001378453,57,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,266,2900144.0,483,YES,235.0,YES,2,5.23,0.420852422,64,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,207,5509254.0,665,NO,483.0,YES,1,4.4,-1.204133129,88,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.edu,100KB/s to 1MB/s,572,2107252.0,600,NO,167.0,NO,1,5.61,-0.33723864,88,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,219,3707738.0,622,NO,308.0,YES,1,5.34,0.098491124,73,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,114,1290878.0,458,NO,99.0,YES,2,4.7,-1.548871437,82,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,600,3981742.0,528,NO,333.0,YES,3,5.43,0.063651728,65,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,313,7424861.0,559,NO,690.0,NO,2,5.1,-0.002745692,55,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,83,2089631.0,617,NO,165.0,YES,1,4.52,-2.422834023,98,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,114,6028939.0,579,NO,537.0,NO,1,5.38,-0.121719134,50,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,217,9622300.0,581,NO,955.0,NO,2,5.19,-0.765059199,85,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,216,20417009.0,501,NO,2804.0,NO,1,5.84,1.935462032,63,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,599,13544688.0,647,YES,1513.0,YES,1,4.71,0.127456343,77,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,71,2576243.0,683,NO,207.0,NO,1,5.58,0.203460445,48,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,308,9640809.0,678,NO,958.0,YES,1,3.84,-0.690663605,54,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,105,1448129.0,729,NO,112.0,YES,3,4.33,0.777471707,45,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,390,9171713.0,703,YES,898.0,NO,2,5.49,-0.065368715,61,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,521,1187312.0,598,NO,91.0,YES,2,5.38,-1.665052844,86,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,406,294711.0,505,NO,22.0,YES,1,4.59,0.865484315,61,YES,Incorrectly Identified as Clean
+Git Repository,.com,100KB/s to 1MB/s,224,9704468.0,629,NO,966.0,YES,2,4.45,-0.21188097,70,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,193,1153897.0,661,YES,88.0,YES,1,4.19,0.7020772,79,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,359,1182309.0,359,NO,,YES,1,4.61,-0.395566672,57,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,192,2650424.0,602,NO,213.0,NO,2,4.62,-0.010318479,70,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,54,6108484.0,694,NO,545.0,NO,2,5.72,0.526641301,71,YES,Correctly Identified as Malware
+University Web Pages,.gov,100KB/s to 1MB/s,108,5549934.0,654,NO,487.0,YES,1,5.08,1.148569983,46,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,319,5558175.0,655,NO,488.0,NO,1,5.64,0.242584569,58,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,352,2642602.0,419,NO,212.0,NO,1,4.74,2.215863932,77,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,279,5245054.0,548,NO,456.0,NO,3,5.5,0.355647948,57,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,324,3317492.0,580,NO,272.0,YES,2,5.57,0.421551044,80,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,275,11540883.0,707,YES,1214.0,NO,1,4.76,-0.027446944,53,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,268,3870715.0,558,YES,323.0,YES,2,5.47,-1.276198713,57,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,611,15941198.0,503,YES,1914.0,YES,3,5.14,-1.080933368,76,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,47,10103045.0,707,NO,1018.0,NO,2,5.53,-1.388349577,70,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,318,10081728.0,741,NO,,NO,2,5.48,-1.906286811,75,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,435,6847800.0,442,YES,625.0,YES,3,4.86,0.102317269,80,YES,Correctly Identified as Malware
+University Web Pages,.gov,1MB/s to 10MB/s,207,7591713.0,570,NO,709.0,YES,2,4.78,0.220481583,51,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,691,541456.0,583,YES,40.0,NO,2,4.61,1.657387882,76,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.org,1MB/s to 10MB/s,435,2584291.0,695,YES,207.0,NO,2,5.28,-0.605856353,56,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,926,3667709.0,523,NO,304.0,YES,1,4.76,1.035733917,76,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,493,13443317.0,431,NO,1497.0,YES,1,5.08,-1.625063724,67,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,84,7683474.0,484,NO,719.0,NO,1,4.42,0.82296839,83,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,347,4061264.0,433,YES,341.0,NO,1,5.49,0.061266132,62,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,331,683772.0,558,YES,51.0,NO,2,5.16,1.206489152,66,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,370,4210882.0,493,NO,355.0,NO,2,4.89,0.438660216,47,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,199,4499369.0,519,YES,383.0,NO,2,5.42,0.798076248,51,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,150,10300155.0,670,NO,1044.0,NO,2,4.95,0.773236991,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,441,8608190.0,527,YES,,YES,1,5.35,1.262321947,45,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,336,13965752.0,558,NO,1580.0,YES,2,4.87,-0.672045315,42,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.org,100KB/s to 1MB/s,320,10743531.0,649,NO,1103.0,NO,1,5.17,-0.919459413,85,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,69,18785794.0,633,YES,2457.0,YES,1,4.94,-1.704409059,67,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,457,7929658.0,417,YES,748.0,YES,2,4.28,-0.909970148,86,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,38,15042930.0,634,NO,1758.0,YES,1,5.17,1.129810934,66,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,118,15346082.0,695,YES,1810.0,YES,2,3.9,-1.187979122,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,237,3967297.0,632,NO,332.0,YES,1,5.21,0.807011013,59,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,470,17755528.0,561,YES,2251.0,YES,2,4.99,0.290477856,76,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,487,10906559.0,466,NO,1125.0,YES,3,5.51,-0.605962886,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,294,9973608.0,540,YES,1001.0,NO,3,4.18,-0.009815893,90,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net.au,100KB/s to 1MB/s,47,18131637.0,672,YES,2325.0,YES,1,4.13,-0.96078607,63,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,85,9260172.0,546,YES,909.0,NO,2,5.17,-0.070182718,63,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,152,2552964.0,564,NO,,YES,2,5.29,-0.429455847,45,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,75,15563926.0,656,NO,,YES,1,4.67,-0.354241527,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,261,4249411.0,534,YES,359.0,YES,2,5.77,-1.333281836,82,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,115,4786439.0,802,NO,411.0,NO,2,5.44,1.829306208,61,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,231,9763354.0,604,NO,973.0,YES,2,4.58,-0.066215397,88,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,263,20276436.0,687,YES,2773.0,YES,3,4.13,1.031476128,49,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.org,100KB/s to 1MB/s,161,9272994.0,626,NO,911.0,NO,2,5.05,0.288188753,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,240,6452483.0,542,NO,,NO,2,4.68,0.028444711,77,NO,Correctly Identified as Clean
+Git Repository,.com,100KB/s to 1MB/s,327,2869845.0,618,NO,232.0,NO,2,5.26,-0.540460428,80,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,363,8682026.0,440,YES,,YES,1,4.6,-0.027252018,76,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.edu,100KB/s to 1MB/s,145,2880462.0,479,YES,233.0,YES,1,5.17,1.428731107,78,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,321,1267919.0,628,NO,97.0,NO,2,5.6,0.232060749,74,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,32,2674888.0,665,NO,215.0,YES,3,4.3,-0.932134852,65,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,128,9524652.0,385,YES,943.0,YES,1,4.85,0.135254822,71,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,415,5011790.0,628,YES,,YES,1,4.74,1.163915822,90,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,154,10184832.0,610,NO,1028.0,YES,1,5.15,-0.146366403,72,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,50,3838026.0,634,YES,320.0,NO,2,5.72,-0.173965655,65,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,145,1606548.0,643,NO,125.0,YES,3,5.14,1.509873571,86,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,132,11340423.0,631,NO,1186.0,NO,2,5.47,0.078891756,60,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,802,6796393.0,607,YES,620.0,NO,2,5.27,1.017884659,52,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,293,7990287.0,418,NO,755.0,NO,2,5.02,-0.009977689,76,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,352,8582725.0,407,NO,826.0,YES,3,4.67,-1.587599059,53,YES,Correctly Identified as Malware
+University Web Pages,.net,100KB/s to 1MB/s,177,850613.0,694,NO,64.0,NO,3,5.68,-0.121611017,72,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,127,5153241.0,759,NO,447.0,NO,1,5.3,1.126368941,48,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,260,14971083.0,660,NO,1746.0,YES,1,4.96,0.677729699,76,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,262,7744765.0,641,NO,727.0,NO,1,5.34,1.299636669,76,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,47,5656249.0,578,YES,498.0,NO,2,5.18,1.177269838,74,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.org,1MB/s to 10MB/s,309,8729685.0,614,NO,844.0,YES,2,4.73,-1.282319912,74,YES,Incorrectly Identified as Clean
+Exposed Corporate Intranet Pages,.net,1MB/s to 10MB/s,239,4023196.0,676,YES,337.0,YES,2,4.26,-0.462396863,71,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,220,37157784.0,944,NO,8441.0,YES,2,3.3,0.65346389,66,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,676,6132800.0,570,YES,548.0,YES,1,5.65,-0.844963765,75,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,74,2037190.0,636,NO,161.0,NO,1,5.14,0.885967931,46,NO,Correctly Identified as Clean
+Linked to Web Search Advertisment,.com,100KB/s to 1MB/s,419,151089.0,65535,NO,11.0,NO,1,5.74,0.672486927,40,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,252,20575721.0,586,NO,,YES,2,4.2,-0.613842834,66,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,321,22414104.0,714,NO,,YES,2,4.76,3.238701865,68,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,765,803942.0,582,YES,61.0,YES,2,5.38,-0.052387546,49,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,273,5240991.0,581,YES,456.0,NO,1,5.6,-0.678933004,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,505,9490714.0,398,NO,,YES,2,4.95,-0.256841389,83,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.net.au,100KB/s to 1MB/s,125,912485.0,543,YES,69.0,YES,1,5.04,1.347248223,67,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,465,2499513.0,346,YES,200.0,NO,2,4.73,0.762598749,72,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,391,10836361.0,571,NO,1116.0,NO,2,4.25,-0.663090332,68,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,61,4642334.0,558,NO,397.0,NO,1,5.1,-1.092235273,95,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,85,681467.0,671,NO,51.0,YES,2,4.51,0.155443898,64,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,242,4447244.0,559,YES,378.0,YES,2,5.91,0.965784952,73,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,43,7525853.0,680,YES,701.0,NO,2,5.61,-0.4355779,45,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,91,4543985.0,630,NO,387.0,YES,2,5.35,-0.99756807,85,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,300,11440498.0,530,YES,1200.0,NO,3,4.18,0.964890074,84,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,615,6731564.0,503,NO,613.0,YES,1,4.75,-0.638674829,74,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,151,3781432.0,602,NO,315.0,YES,2,4.95,0.792606699,77,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,52,12741511.0,607,YES,1389.0,YES,2,4.88,-0.646892112,71,YES,Correctly Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,288,30678644.0,437,NO,5736.0,NO,1,5.02,0.173973277,64,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,54,11306296.0,538,YES,1181.0,NO,2,4.32,-0.402063484,65,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,179,13000506.0,445,YES,1429.0,NO,2,4.32,0.843440777,82,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,378,8930139.0,767,NO,868.0,NO,4,5.11,-0.745546064,51,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,914,5720650.0,590,YES,505.0,YES,2,5.15,-0.233019329,65,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,88,334539.0,635,NO,25.0,NO,1,5.63,-0.533310404,78,YES,Correctly Identified as Malware
+University Web Pages,.gov,100KB/s to 1MB/s,177,11977339.0,546,NO,1276.0,NO,1,4.44,-0.762386162,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,387,2510323.0,585,NO,201.0,NO,2,5.27,1.104595688,70,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,52,10563076.0,661,NO,1079.0,YES,1,4.67,-0.78116308,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,396,22900012.0,258,NO,3389.0,NO,1,4.11,0.56014153,86,YES,Correctly Identified as Malware
+University Web Pages,.net,100KB/s to 1MB/s,211,6064194.0,508,YES,541.0,NO,2,5.17,-0.61663578,69,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,1MB/s to 10MB/s,562,2837977.0,541,NO,229.0,YES,2,4.3,1.696379868,52,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,132,5399886.0,629,YES,472.0,YES,1,4.12,0.561516446,62,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,616,3128019.0,612,YES,255.0,NO,2,5.46,0.096213292,66,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,261,6521456.0,656,YES,590.0,YES,1,5.48,1.183576409,52,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,179,3563235.0,597,NO,295.0,YES,1,4.55,1.146946746,78,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,153,18093482.0,376,NO,,NO,2,3.93,-0.552122273,90,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,334,9516955.0,65535,YES,942.0,YES,1,4.79,1.321152875,87,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.org,100KB/s to 1MB/s,348,4320067.0,593,NO,365.0,YES,2,4.46,-1.702562622,89,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,105,882858.0,550,NO,67.0,YES,2,4.97,0.685133856,54,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,42,6230556.0,643,YES,558.0,YES,2,4.39,0.386372216,81,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,220,11934827.0,601,YES,1270.0,NO,3,4.99,0.24568743,58,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,426,10517189.0,495,YES,1073.0,YES,3,5.32,-1.281504459,70,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,301,9399207.0,672,NO,927.0,YES,1,4.09,-0.227060305,78,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,109,785082.0,532,YES,59.0,YES,1,5.31,0.369721292,87,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,327,31867648.0,835,YES,6175.0,YES,1,4.25,-1.358169518,100,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,39,3989127.0,528,YES,334.0,YES,1,4.78,-0.69259559,70,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,556,11670227.0,631,YES,1232.0,NO,1,4.97,-0.888686666,93,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,53,8223141.0,511,YES,783.0,YES,2,5.75,-1.03112484,34,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,578,11307616.0,533,YES,1181.0,NO,2,5.3,-0.159321526,74,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,202,7307875.0,629,YES,677.0,NO,1,4.53,-0.00674269,53,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,139,3832241.0,629,NO,319.0,YES,1,4.32,-0.220470089,61,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,185,8962049.0,665,NO,872.0,NO,2,5.36,-2.532541234,71,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,739,14961456.0,484,NO,1744.0,NO,2,4.58,-0.082589666,54,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,505,4440691.0,546,YES,377.0,YES,1,5.69,2.236226133,48,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,274,16993367.0,462,YES,,YES,2,5.69,-1.1609145,70,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,371,17139259.0,641,YES,2133.0,NO,2,5.55,-1.675502914,68,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,229,3954366.0,603,NO,331.0,YES,1,5.34,2.121496589,60,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,170,9583235.0,551,YES,950.0,YES,2,5.67,0.846376755,67,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,161,17223513.0,486,NO,2149.0,YES,1,6.03,-0.863725671,80,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.gov,1MB/s to 10MB/s,376,19648467.0,556,YES,2637.0,NO,2,4.22,0.876398041,45,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,266,481040.0,562,YES,36.0,YES,2,4.76,-1.013381514,71,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,403,11320564.0,697,NO,1183.0,YES,1,4.58,-1.158711211,69,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,506,6469616.0,572,NO,,YES,2,5.37,0.208459089,61,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,97,2673193.0,581,YES,215.0,NO,2,5.35,-0.115504607,81,NO,Correctly Identified as Clean
+Linked to Web Search Advertisment,.gov,1MB/s to 10MB/s,59,4155494.0,616,YES,,YES,2,4.97,-0.464146025,72,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,257,7792002.0,430,YES,732.0,YES,3,4.78,-1.372688025,52,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,130,10932513.0,635,NO,1129.0,NO,2,5.24,0.838173705,54,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,489,15965026.0,674,YES,1918.0,YES,2,4.21,2.255981774,59,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,150,15135553.0,567,NO,1774.0,YES,1,4.98,-0.020141361,68,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,170,903556.0,785,NO,69.0,NO,2,5.25,-0.897173998,69,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,138,5892136.0,615,NO,523.0,NO,2,5.31,-0.374242811,68,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,123,3817143.0,368,NO,318.0,YES,2,5.26,1.389019381,65,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,439,696947.0,625,NO,52.0,YES,2,5.29,-0.219739257,54,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,391,3708119.0,683,YES,308.0,NO,2,4.78,-0.048630497,83,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,124,4746606.0,586,YES,407.0,NO,2,5.47,0.560407042,59,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,344,19224496.0,488,NO,,NO,1,4.01,-0.387280959,90,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,272,6711730.0,601,YES,610.0,NO,2,5.43,0.708372417,61,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,231,3258919.0,643,NO,267.0,NO,1,5.45,1.17951084,89,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,84,225331.0,617,NO,16.0,NO,1,5.33,1.424469516,81,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,472,11867640.0,462,NO,1261.0,YES,2,4.86,0.400336981,63,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,227,5987690.0,573,NO,533.0,YES,2,4.81,0.094226037,76,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,73,19082349.0,468,YES,2518.0,NO,1,4.95,-1.673632258,47,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,854,13953943.0,637,YES,1578.0,NO,1,5.2,1.879891415,44,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,287,7060884.0,585,YES,649.0,YES,1,4.65,-1.888277124,63,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,81,10951665.0,667,NO,1132.0,NO,1,5.57,0.137124096,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,225,19921613.0,710,NO,2696.0,NO,1,4.65,-2.319717593,99,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,31,10494429.0,424,YES,1070.0,YES,2,4.14,-0.497671543,75,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,94,11278357.0,631,NO,1177.0,YES,1,4.85,0.130398008,91,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,330,3069607.0,447,YES,250.0,YES,2,5.44,-0.456851644,78,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,59,683985.0,576,YES,51.0,NO,2,5.14,-0.894427924,78,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,204,649090.0,638,NO,49.0,YES,2,5.3,0.093294865,70,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,364,2832626.0,488,YES,229.0,NO,1,5.41,0.896640611,80,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,576,8434204.0,592,YES,808.0,NO,2,5.19,0.216938891,66,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,199,1324981.0,597,YES,102.0,YES,2,4.89,-0.149014881,70,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,216,8864733.0,685,YES,860.0,NO,1,5.46,0.613827222,84,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,Greater than 10MB/s,580,14607369.0,496,YES,1685.0,NO,2,5.64,-0.529628169,59,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,107,12105418.0,510,YES,1295.0,YES,2,5.35,-0.402175781,55,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,396,5939358.0,494,YES,528.0,NO,2,4.62,3.584338793,52,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,187,833901.0,448,YES,63.0,YES,1,5.25,0.156328188,65,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,384,865677.0,631,NO,66.0,YES,2,4.64,-1.27791786,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,442,10352576.0,530,YES,1051.0,YES,3,4.59,2.778573329,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,152,10577364.0,703,YES,1081.0,NO,2,5.31,1.339461267,61,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,191,14308478.0,632,NO,1636.0,NO,1,4.93,-1.568928282,65,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,428,15303498.0,494,YES,,NO,2,4.12,0.440960236,71,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,566,4019661.0,562,YES,337.0,NO,2,4.7,0.629692976,68,YES,Incorrectly Identified as Clean
+Git Repository,.gov,100KB/s to 1MB/s,547,8250112.0,572,YES,786.0,NO,1,5.12,0.495194452,60,NO,Incorrecty Identified as Malware
+University Web Pages,.net,1MB/s to 10MB/s,243,10970784.0,449,YES,1134.0,NO,2,4.25,-0.829371539,34,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,110,3988354.0,657,YES,334.0,YES,2,5.45,0.183501683,76,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,213,3132028.0,525,NO,255.0,YES,1,5.59,1.555825036,38,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,240,8436859.0,500,NO,808.0,YES,2,5.3,-0.085813774,95,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,131,4335998.0,645,YES,367.0,NO,2,5.05,-0.722944071,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,29,1102435.0,568,NO,,YES,2,5.3,1.268515751,70,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,1MB/s to 10MB/s,182,693365.0,589,YES,,YES,2,4.53,-0.546993001,79,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,33,9242557.0,532,NO,907.0,NO,1,4.57,0.627445544,73,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,82,328641.0,636,NO,24.0,NO,2,4.56,1.108076485,45,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,288,12135828.0,546,YES,1299.0,NO,2,4.74,-1.344202877,65,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,117,3405735.0,674,NO,280.0,NO,1,5.08,-0.80491118,52,NO,Correctly Identified as Clean
+University Web Pages,.gov,100KB/s to 1MB/s,382,10304238.0,647,NO,,NO,2,5.07,-2.108124923,92,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,236,4555834.0,505,NO,388.0,YES,2,4.7,1.195371921,51,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,178,2079739.0,705,YES,164.0,NO,1,5.7,-0.087394371,81,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,83,18761042.0,543,YES,2452.0,YES,1,4.9,-0.857000305,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,889,10405323.0,569,NO,1058.0,NO,2,5.19,-0.477940744,77,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,101,5167491.0,512,YES,448.0,NO,2,4.98,-0.335842211,65,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,393,6786265.0,607,YES,619.0,NO,3,5.16,-0.935789231,81,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,299,4112333.0,607,NO,346.0,NO,1,4.56,-1.853279071,39,YES,Correctly Identified as Malware
+University Web Pages,.com,1MB/s to 10MB/s,610,8476838.0,670,NO,813.0,NO,1,4.74,-0.309559197,65,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,98,9591581.0,490,NO,951.0,NO,2,4.38,-0.811283463,62,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,240,771806.0,532,NO,58.0,YES,2,4.9,-1.766305263,72,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,82,4153701.0,702,YES,350.0,NO,2,5.77,-0.486682992,56,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,202,2878143.0,511,YES,233.0,YES,1,5.28,0.176128109,80,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,40,5330292.0,743,NO,465.0,NO,2,5.79,-0.163134315,72,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,708,21370820.0,601,NO,3021.0,YES,1,4.99,0.438759891,75,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,424,427943.0,642,YES,32.0,YES,2,4.67,-0.522618277,59,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,178,17622365.0,622,NO,2225.0,NO,1,5.4,-1.243258237,83,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,623,21041742.0,396,NO,,YES,1,5.27,-1.280153858,43,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,709,6556678.0,658,NO,593.0,YES,1,4.14,-0.892495674,54,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,366,9380331.0,586,YES,924.0,YES,1,4.83,0.722208289,63,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,118,12346941.0,578,NO,1331.0,YES,2,5.07,-0.694409027,81,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.edu,100KB/s to 1MB/s,35,25124484.0,543,NO,3975.0,YES,1,5.22,1.381482029,60,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,416,26987431.0,654,NO,4516.0,YES,2,4.63,-1.328305818,83,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,173,6198260.0,639,NO,555.0,NO,1,5.57,-1.754476276,76,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,323,1641755.0,540,YES,128.0,YES,3,5.14,0.680257602,63,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,43,4254357.0,550,NO,359.0,NO,1,5.04,-0.240637039,75,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,582,16856309.0,693,NO,2080.0,YES,1,4.46,1.80964387,53,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,629,4851507.0,675,NO,417.0,YES,2,4.54,-0.258974743,83,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,Greater than 10MB/s,68,4780838.0,630,NO,410.0,YES,3,4.28,-0.504126344,65,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,149,3213277.0,617,YES,263.0,YES,1,5.15,-0.159211832,74,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,25,15813536.0,508,YES,1891.0,NO,2,4.06,-0.044859634,52,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,148,2457001.0,539,YES,196.0,NO,2,5.8,-0.431950999,37,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,79,20894084.0,648,YES,2911.0,YES,3,4.45,1.724030094,87,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,249,11576155.0,664,YES,1219.0,YES,2,4.93,-0.500146734,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,216,10705522.0,263,NO,1098.0,NO,2,4.46,-0.498101903,61,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,32,7737094.0,589,NO,726.0,YES,2,5.17,0.433345707,42,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,184,1319386.0,566,YES,102.0,YES,1,4.99,-0.353597302,113,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,401,6811657.0,593,YES,621.0,NO,2,4.47,0.850708618,56,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,224,6013056.0,524,NO,535.0,NO,2,4.29,-1.057515134,59,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,232,11314650.0,644,NO,1182.0,NO,3,5.07,1.659842843,78,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,210,755745.0,491,NO,57.0,YES,1,4.54,1.028765405,60,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,440,8029640.0,477,NO,760.0,NO,2,4.57,1.463261972,86,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,770,2702327.0,640,NO,218.0,NO,4,5.17,0.273550423,76,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,112,7137684.0,379,NO,657.0,NO,1,4.33,0.824932312,63,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,287,1931019.0,321,YES,152.0,YES,1,4.33,-0.330596067,93,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,39,4983653.0,541,YES,,YES,2,5.29,1.890070728,75,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,436,4920084.0,653,NO,,NO,1,5.19,0.255636597,59,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,386,1561427.0,536,YES,121.0,YES,2,4.93,-0.493539296,53,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,314,1055399.0,573,NO,81.0,NO,3,4.66,-0.081787037,117,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,657,369995.0,473,YES,27.0,YES,1,5.38,0.632619108,49,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,218,3664744.0,672,NO,304.0,YES,1,4.34,1.063395238,73,NO,Correctly Identified as Clean
+University Web Pages,.net,100KB/s to 1MB/s,93,13798697.0,767,NO,1553.0,YES,1,3.87,0.016332575,84,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,133,494182.0,390,NO,37.0,YES,1,4.49,1.098240583,67,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,734,4706391.0,490,YES,403.0,YES,1,5.33,-0.75441993,79,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,57,1639544.0,614,NO,128.0,YES,2,5.07,0.119467018,114,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,240,1132018.0,650,NO,87.0,NO,2,5.17,-0.871233951,53,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,221,2036092.0,574,NO,161.0,YES,2,5.42,1.416197833,55,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,337,14478584.0,765,NO,1664.0,NO,1,5.67,0.445305443,67,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,333,19367407.0,743,NO,2578.0,YES,1,3.93,0.876099215,75,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,438,13289128.0,458,YES,1473.0,YES,2,5.01,-0.284680587,91,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,577,21138705.0,65535,NO,2967.0,NO,1,3.9,0.438532416,92,YES,Incorrectly Identified as Clean
+Git Repository,.com,1MB/s to 10MB/s,125,6187848.0,701,NO,,NO,2,5.15,1.472595765,61,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,223,3138927.0,724,YES,256.0,YES,2,4.04,-0.273531915,90,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,271,731208.0,468,NO,55.0,YES,2,4.64,-1.51318061,64,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,717,16358526.0,480,YES,1989.0,YES,2,5.03,-0.237192572,83,YES,Correctly Identified as Malware
+Git Repository,.com,100KB/s to 1MB/s,112,4487676.0,677,NO,382.0,NO,4,4.76,1.814917001,76,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,537,5065156.0,573,NO,438.0,NO,1,5.51,0.456370588,70,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,464,598267.0,726,YES,45.0,NO,1,5.24,0.191659955,47,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,460,896050.0,668,NO,68.0,NO,2,5.91,0.303030905,100,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,366,266113.0,609,NO,19.0,NO,1,5.18,0.233523561,96,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,457,13296422.0,797,NO,1474.0,YES,2,4.78,-0.446571191,69,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,69,16447857.0,364,NO,2005.0,YES,2,5.05,-0.491411623,64,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,230,12207755.0,579,NO,1310.0,NO,1,4.66,-2.115076364,87,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,160,7660784.0,526,NO,717.0,YES,1,4.85,0.239368756,80,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.org,100KB/s to 1MB/s,160,12661238.0,550,NO,1377.0,YES,3,5.37,1.045259421,42,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,164,486715.0,614,YES,36.0,NO,1,4.85,0.363989084,74,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,96,8444298.0,458,YES,809.0,YES,2,5.48,-0.271895922,96,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,76,10412847.0,659,YES,1059.0,NO,2,4.87,-0.718926095,74,NO,Correctly Identified as Clean
+Git Repository,.gov,100KB/s to 1MB/s,274,1030843.0,595,NO,79.0,YES,1,4.53,-0.489589138,42,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,372,4442439.0,625,NO,377.0,NO,1,5.68,1.52415688,78,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,70,7235773.0,515,NO,668.0,YES,1,5.58,-0.433132093,70,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,31,4723015.0,635,YES,404.0,NO,2,4.98,2.009444672,104,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,675,20949557.0,482,YES,2924.0,NO,2,3.74,-1.069776971,76,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,47,4711810.0,693,YES,403.0,NO,2,5.55,-0.203743881,53,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,233,6038488.0,762,NO,538.0,NO,2,5.7,0.253035776,76,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,296,14284773.0,490,NO,1632.0,NO,3,5.31,-0.105214497,69,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,51,4071947.0,649,NO,342.0,YES,2,4.36,-0.795087246,73,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,113,3262279.0,433,YES,267.0,NO,2,4.57,0.765534675,57,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,179,7711731.0,448,NO,723.0,YES,3,4.11,-0.349727888,60,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,409,2351153.0,372,YES,187.0,YES,2,4.43,0.101505814,79,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,17,2821960.0,414,NO,,YES,3,4.6,-0.784388542,106,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,313,24032743.0,608,NO,3680.0,YES,1,4.7,-0.031557775,47,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,309,2383178.0,582,NO,190.0,YES,2,4.93,-0.057689597,100,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,276,19929308.0,379,NO,2698.0,NO,2,3.86,-1.045226643,82,YES,Incorrectly Identified as Clean
+Git Repository,.gov,1MB/s to 10MB/s,109,13093610.0,442,NO,1443.0,NO,2,4.36,0.048189194,50,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,23,9392677.0,604,YES,926.0,NO,2,5.41,0.609338074,40,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,140,14741452.0,496,YES,1707.0,YES,1,5.06,-0.056676746,56,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,535,6657968.0,502,NO,,YES,2,5.79,-1.504138233,82,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,280,26601786.0,685,NO,4400.0,YES,2,4.79,0.083337281,80,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,105,8359206.0,629,NO,,NO,1,5.0,-1.964351842,62,NO,Correctly Identified as Clean
+University Web Pages,.com,100KB/s to 1MB/s,438,3094809.0,625,NO,252.0,YES,1,4.64,-1.335522445,62,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net.au,1MB/s to 10MB/s,128,11334222.0,214,NO,1185.0,YES,3,4.24,-1.259223025,105,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,239,2319103.0,603,NO,184.0,NO,2,5.07,-1.087143138,49,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,377,1348549.0,594,NO,104.0,YES,1,5.46,1.258296125,82,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,509,14803099.0,683,NO,1718.0,YES,1,4.4,-0.456633161,86,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,88,1101470.0,549,NO,,YES,2,4.59,0.548168792,72,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,153,6440498.0,65535,YES,581.0,NO,2,4.32,-0.20742363,80,YES,Incorrectly Identified as Clean
+University Web Pages,.edu,100KB/s to 1MB/s,707,8732184.0,651,NO,844.0,NO,2,5.73,0.576413558,66,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,201,613614.0,523,NO,,YES,2,4.52,-0.083842707,73,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,264,12904767.0,576,NO,1414.0,NO,2,5.43,-0.178114141,68,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,483,6903682.0,670,YES,631.0,YES,2,5.27,1.244184702,69,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,211,4340745.0,498,NO,367.0,YES,2,4.77,-0.326058972,57,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,443,17211175.0,680,NO,2147.0,YES,2,4.3,-0.501711903,30,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,160,6094374.0,587,NO,544.0,NO,2,5.29,0.907002412,64,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,733,4015977.0,617,YES,337.0,YES,1,4.61,-0.419681524,73,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,126,4298746.0,619,YES,363.0,YES,2,5.58,0.087286175,66,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,438,13499237.0,556,NO,1506.0,NO,2,5.25,-0.94127035,85,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,315,3057677.0,708,YES,249.0,YES,2,5.3,-0.678524525,72,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,168,6191236.0,499,YES,554.0,NO,1,4.78,-0.981613373,86,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,73,11237656.0,607,YES,,NO,2,4.99,-1.539896246,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,411,4842592.0,612,YES,416.0,YES,3,4.35,1.967535876,91,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,100,3541935.0,547,NO,293.0,NO,2,5.44,-0.382769102,80,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,86,3119989.0,475,NO,254.0,NO,3,5.51,-3.47964086,81,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,Greater than 10MB/s,336,29636055.0,773,NO,5370.0,YES,1,4.18,1.036415288,60,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,399,10979120.0,465,YES,,YES,2,4.96,0.287287624,76,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,320,5137020.0,579,YES,,YES,3,5.04,-1.017465502,68,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,280,13321825.0,625,NO,1478.0,NO,3,5.62,-0.421683978,107,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,394,5640464.0,522,NO,497.0,NO,1,4.83,0.775752647,75,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,333,900556.0,649,NO,68.0,YES,3,4.41,1.860570425,65,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,506,9283647.0,597,NO,912.0,YES,1,4.9,-1.445609649,67,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,299,3303057.0,465,NO,271.0,YES,3,4.59,-0.479365834,38,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,392,71417.0,505,YES,5.0,NO,1,4.76,-0.868306502,66,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,304,7828400.0,634,YES,,NO,3,5.12,3.040152199,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,67,35121.0,543,YES,2.0,YES,2,5.4,-0.062047726,78,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,255,5086250.0,680,NO,440.0,YES,2,4.69,-0.228183291,85,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,50,4192043.0,639,NO,353.0,YES,1,5.33,-1.077763188,27,YES,Incorrectly Identified as Clean
+University Web Pages,.com,1MB/s to 10MB/s,281,6150783.0,484,YES,550.0,YES,2,4.34,1.087345766,74,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,429,5252939.0,475,YES,457.0,YES,1,4.39,2.641060254,56,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,394,5029879.0,589,YES,435.0,NO,2,5.51,1.124787406,80,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,372,15425067.0,734,YES,,NO,1,5.22,-0.13275039,84,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,Greater than 10MB/s,525,11044392.0,608,YES,1144.0,YES,1,4.1,0.945506356,58,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,430,2613297.0,582,NO,210.0,YES,2,4.75,-0.319449378,64,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,44,9767097.0,505,NO,,YES,3,5.77,-1.815547135,75,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,197,4341499.0,579,YES,367.0,YES,2,5.45,0.931042056,86,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,240,865247.0,522,NO,66.0,NO,2,4.69,1.260441797,69,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,322,12318531.0,570,YES,1326.0,YES,2,4.91,0.455711017,87,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net.au,1MB/s to 10MB/s,42,13599565.0,670,NO,1522.0,YES,2,4.55,-0.405246054,45,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,561,5197023.0,545,NO,451.0,YES,2,5.43,2.220799264,71,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,123,1147748.0,488,NO,88.0,YES,1,5.17,-0.176049332,68,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,644,6503155.0,625,YES,588.0,YES,1,5.21,-1.004981676,62,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,129,10248766.0,641,YES,1037.0,YES,1,5.17,1.213143238,52,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,326,13510268.0,645,NO,1508.0,YES,1,4.81,0.384852321,69,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,92,19066024.0,357,NO,2515.0,YES,1,5.15,0.431351653,63,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,258,17524736.0,407,NO,2207.0,YES,2,4.75,1.176876426,30,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,378,3964131.0,544,YES,332.0,NO,1,4.71,0.603169766,83,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,44,9982089.0,728,NO,1002.0,NO,1,5.48,0.330688527,60,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,78,1364865.0,521,YES,,YES,1,5.37,-0.166055237,78,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,34,12502391.0,420,YES,1354.0,YES,2,4.9,-1.456667102,61,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,403,11313433.0,524,NO,1182.0,NO,2,5.93,2.21515372,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,203,7593934.0,574,YES,709.0,YES,2,4.55,-1.074751944,78,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,146,10874843.0,709,NO,1121.0,NO,2,5.26,0.688372357,83,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,280,1405676.0,592,YES,,YES,1,4.7,0.761505192,99,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,350,18755876.0,719,NO,2451.0,YES,2,4.99,1.415209127,65,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,406,3822162.0,690,NO,318.0,NO,2,5.4,0.075575877,76,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,725,18001838.0,561,YES,2299.0,YES,1,5.19,0.052772802,55,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,458,3963825.0,627,YES,332.0,NO,2,5.51,-0.278337017,45,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,190,116757.0,607,NO,8.0,YES,1,5.14,1.043949157,49,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,141,3500535.0,582,NO,,YES,2,4.59,-0.207996752,71,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,113,959191.0,587,NO,73.0,YES,1,4.59,0.75238242,59,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,133,5305001.0,412,YES,462.0,NO,2,4.58,-2.286731865,80,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,70,8004755.0,556,NO,757.0,NO,1,5.11,-0.377761398,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,365,936225.0,568,YES,71.0,YES,2,4.48,-0.044395607,55,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,96,1865705.0,499,YES,146.0,NO,1,4.52,1.741029816,58,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,420,15349402.0,486,NO,,YES,2,5.49,1.362847095,42,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,157,35526442.0,743,YES,7684.0,YES,1,4.1,0.517544223,86,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,240,12530665.0,647,YES,1358.0,NO,2,5.23,-1.598777156,86,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,107,12640669.0,675,NO,1374.0,YES,1,4.73,0.235956769,72,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,160,4860946.0,710,NO,418.0,YES,2,3.91,-0.452833199,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,166,8614870.0,623,NO,830.0,NO,1,4.28,2.102835742,87,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,469,326967.0,389,NO,,YES,1,4.66,0.997073324,60,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,790,14087398.0,65535,YES,1600.0,NO,2,4.25,0.774379799,90,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,163,14775798.0,65535,YES,1713.0,YES,1,4.08,-0.576323991,87,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,326,20393930.0,849,NO,2799.0,YES,1,3.52,0.97252897,41,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,88,8871709.0,472,NO,861.0,YES,2,5.4,0.505577155,71,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,132,4367203.0,644,NO,370.0,NO,3,5.48,0.332475202,72,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,70,7310182.0,498,NO,,NO,2,4.33,0.014064841,57,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,595,9596468.0,663,NO,952.0,NO,1,5.37,-0.660526456,52,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,396,2184996.0,640,NO,173.0,YES,2,4.42,-0.046127135,71,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,422,18911999.0,469,YES,2483.0,NO,3,5.21,-0.794459602,30,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.org,100KB/s to 1MB/s,257,3398906.0,655,YES,280.0,YES,3,5.4,-1.593177173,62,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,332,18318944.0,655,YES,2362.0,YES,2,4.36,0.248851167,77,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,271,11482656.0,394,YES,1206.0,YES,2,4.69,0.876754923,56,YES,Correctly Identified as Malware
+Git Repository,.com,1MB/s to 10MB/s,624,1813279.0,438,YES,142.0,YES,4,4.65,-0.795743814,88,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,69,6777227.0,686,NO,618.0,NO,2,5.44,0.457890146,66,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,1MB/s to 10MB/s,108,2938090.0,553,NO,238.0,YES,1,4.53,0.395518113,38,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,378,401582.0,626,YES,,YES,1,5.15,0.984187669,60,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,268,1477619.0,636,NO,114.0,YES,1,5.63,-0.527294931,49,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,191,15423977.0,374,YES,1823.0,NO,2,4.15,-0.579350994,85,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,341,6819276.0,718,NO,622.0,YES,2,4.13,0.279238585,101,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,195,6134743.0,626,NO,,YES,3,4.33,1.394227031,69,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,392,12476142.0,761,YES,1350.0,NO,2,4.26,-0.753530074,72,YES,Correctly Identified as Malware
+University Web Pages,.net,100KB/s to 1MB/s,413,6559498.0,662,NO,594.0,YES,2,4.59,0.381971809,93,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,232,8753053.0,559,NO,847.0,NO,1,5.1,-1.052056521,62,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,76,16205934.0,536,NO,1961.0,NO,3,4.99,0.163408282,70,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,180,12980283.0,503,NO,1426.0,YES,3,4.92,-1.196377968,69,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,333,12920581.0,676,NO,1417.0,YES,3,4.27,0.800670049,63,NO,Correctly Identified as Clean
+University Web Pages,.com,100KB/s to 1MB/s,34,17317186.0,380,NO,2167.0,YES,2,5.01,0.47391766,64,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,231,11704348.0,586,YES,,NO,1,5.37,-0.365445507,69,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,187,28558397.0,318,NO,5010.0,NO,2,3.92,-0.395174066,102,YES,Correctly Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,292,537953.0,662,NO,40.0,NO,2,5.4,1.975716282,53,NO,Correctly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,272,6029878.0,715,NO,537.0,NO,2,5.59,0.519321913,37,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,135,420842.0,570,NO,,YES,3,5.28,-0.244380145,71,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,250,24226767.0,549,NO,3731.0,NO,1,5.32,0.856902299,77,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,260,6953273.0,491,NO,637.0,YES,1,4.69,-0.049126941,66,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,199,16495698.0,682,YES,2014.0,NO,1,5.01,0.436282076,92,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,586,20224761.0,573,NO,2762.0,YES,2,5.07,-0.321433496,47,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,405,7792601.0,585,NO,,YES,1,4.91,0.032298127,77,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,423,26044414.0,343,YES,4237.0,NO,3,5.77,0.054498472,85,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,289,19653285.0,700,NO,2638.0,NO,1,4.93,-0.262449662,64,NO,Correctly Identified as Clean
+Git Repository,.com,100KB/s to 1MB/s,470,15827450.0,747,NO,1894.0,YES,1,4.32,0.47487898,68,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,56,8900013.0,485,YES,865.0,YES,2,4.67,-0.11973868,49,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,137,8125964.0,504,NO,771.0,NO,1,4.38,1.174016453,64,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,168,6575688.0,590,NO,596.0,NO,2,5.38,-0.797505811,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,106,17670896.0,693,YES,2235.0,YES,4,5.21,-1.067490974,62,YES,Correctly Identified as Malware
+Git Repository,.net,1MB/s to 10MB/s,149,2158992.0,687,YES,171.0,NO,2,4.89,-1.442552527,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,182,13985200.0,539,NO,1583.0,YES,1,5.18,-1.092999675,50,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,249,5972811.0,530,NO,531.0,YES,2,5.25,-1.777223185,65,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,152,1291835.0,388,YES,99.0,YES,1,4.59,0.650232909,54,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,393,853266.0,670,NO,65.0,YES,1,4.77,0.694178815,67,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,208,20399502.0,694,NO,2801.0,NO,1,4.84,-0.071422693,80,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,102,3153460.0,613,YES,257.0,NO,2,5.18,2.489088217,49,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,303,3075122.0,448,YES,250.0,YES,3,5.54,1.193082138,97,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,572,6932324.0,450,NO,635.0,YES,2,5.35,-1.440344442,39,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,57,3882833.0,660,NO,324.0,YES,2,4.1,0.788092716,88,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,262,5821650.0,474,NO,,YES,2,5.76,1.922458027,79,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,126,891331.0,723,YES,68.0,YES,1,4.42,-0.883983079,56,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,456,5933253.0,508,YES,527.0,YES,1,5.29,1.614381015,54,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,168,5507634.0,584,YES,483.0,NO,3,5.52,-0.015697951,53,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,822,11616641.0,683,NO,1225.0,NO,2,5.19,-1.249871182,68,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,77,26248867.0,465,YES,4296.0,YES,1,5.39,-1.323062122,50,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,135,2404108.0,495,NO,192.0,YES,3,4.77,-1.220828778,99,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,170,234248.0,675,NO,17.0,NO,3,6.21,1.302638468,58,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,251,4034308.0,441,YES,338.0,YES,2,4.49,2.511562788,82,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,245,7285446.0,627,NO,674.0,YES,2,5.32,-1.605441324,163,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,503,5772589.0,403,NO,510.0,YES,2,4.41,-0.43101986,57,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,611,31170562.0,835,NO,5915.0,YES,2,3.86,-0.016068053,51,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,270,634864.0,600,NO,48.0,NO,1,5.15,-1.001121677,72,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,592,9331784.0,608,YES,918.0,NO,2,5.01,-0.672046427,92,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,188,13232946.0,790,NO,1465.0,NO,2,5.58,0.270467339,70,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,305,7185345.0,618,NO,663.0,YES,2,4.61,-0.332513064,53,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,359,7394762.0,626,NO,686.0,NO,2,5.15,0.489924758,56,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,423,5237735.0,65535,YES,456.0,YES,2,4.73,0.281481675,80,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,133,2006880.0,479,NO,158.0,YES,2,4.27,-0.483111003,70,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,85,8043063.0,486,NO,761.0,YES,2,4.34,0.48170116,66,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,206,12789454.0,566,NO,1397.0,NO,3,5.02,0.126879586,93,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,159,1832002.0,602,NO,143.0,YES,2,4.92,-0.788521519,54,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,825,6377392.0,523,YES,574.0,NO,2,5.01,-1.943951782,69,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,105,711990.0,583,NO,54.0,YES,2,4.38,1.447164007,108,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,64,13991465.0,700,NO,1584.0,YES,1,4.88,0.367633832,66,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,396,5324329.0,636,YES,464.0,YES,2,5.19,0.318194974,54,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,372,14154229.0,624,NO,1610.0,NO,1,4.76,2.097165693,23,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,146,15974741.0,577,NO,1920.0,YES,2,5.05,-0.159588579,91,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,192,2094416.0,603,NO,165.0,YES,1,5.41,0.347817577,85,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,152,1707410.0,603,YES,133.0,YES,3,4.17,0.627589073,83,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,266,24427165.0,706,NO,3785.0,YES,2,3.76,1.353633639,43,NO,Correctly Identified as Clean
+Git Repository,.edu,100KB/s to 1MB/s,645,4236988.0,619,NO,357.0,YES,2,4.57,1.828746237,58,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,365,3286316.0,586,YES,269.0,YES,2,5.38,1.212006227,71,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.org,100KB/s to 1MB/s,911,3423154.0,598,YES,282.0,YES,2,4.66,1.574039402,76,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,53,2777111.0,524,NO,224.0,YES,2,5.31,1.983710348,71,NO,Incorrecty Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,454,9948539.0,701,NO,,NO,2,5.3,-0.87874977,82,YES,Correctly Identified as Malware
+Git Repository,.edu,100KB/s to 1MB/s,447,31412636.0,820,NO,6004.0,YES,1,3.81,0.472052358,98,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,206,10610072.0,709,YES,1085.0,YES,3,4.97,-1.119094777,32,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,433,4625543.0,632,NO,,YES,1,5.42,0.913342107,69,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,390,3805200.0,622,NO,317.0,YES,2,5.29,0.967701987,45,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,286,4541226.0,599,YES,,NO,1,4.44,-0.723484507,56,YES,Incorrectly Identified as Clean
+Git Repository,.com,100KB/s to 1MB/s,374,5235346.0,526,YES,455.0,YES,1,5.49,2.986331191,119,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,380,11565515.0,591,NO,1217.0,NO,1,4.88,-1.708111112,54,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,420,12176749.0,402,NO,1305.0,YES,2,4.82,0.217073189,87,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,35,9129472.0,675,NO,893.0,NO,1,5.52,-1.167695869,51,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,122,3189496.0,611,YES,261.0,NO,1,5.68,0.025248078,53,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,393,10696681.0,706,NO,1097.0,NO,3,5.48,0.161106003,84,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,235,20739519.0,691,NO,2876.0,YES,1,4.3,0.394144093,59,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,393,18411423.0,555,YES,2381.0,NO,1,4.94,-0.33922923,63,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,385,14620823.0,563,NO,1687.0,YES,2,4.83,0.276472345,108,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,335,6574359.0,600,NO,595.0,YES,1,5.28,-1.304691587,56,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,251,16138330.0,756,YES,1949.0,NO,1,4.94,-1.323751109,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.org,100KB/s to 1MB/s,73,8372402.0,521,NO,800.0,NO,3,5.42,-0.474580918,66,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,29,4474928.0,645,NO,380.0,NO,1,4.97,-0.405508226,56,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,88,5648941.0,548,NO,497.0,NO,1,4.89,0.423795973,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,25,14231917.0,623,NO,1623.0,YES,2,4.7,1.750101003,82,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,123,399194.0,555,YES,30.0,YES,2,5.11,-1.952262114,67,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,428,4715854.0,416,YES,404.0,YES,2,5.08,-0.304653935,62,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,176,23416117.0,534,YES,3520.0,YES,3,5.2,0.072770766,59,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,104,16808219.0,663,YES,2071.0,YES,3,4.9,0.439448855,71,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,Greater than 10MB/s,357,18636071.0,632,NO,2426.0,YES,2,4.55,-0.635062891,35,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,313,196671.0,413,YES,14.0,YES,3,4.49,-0.215386157,43,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,231,3800992.0,306,NO,316.0,NO,1,4.77,0.624645578,88,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,310,13764493.0,568,YES,1548.0,NO,2,5.35,-1.572645012,90,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,276,8229561.0,619,NO,783.0,NO,2,5.12,1.708647735,71,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,143,2123769.0,662,NO,168.0,NO,2,5.53,-0.200893486,106,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,418,14952455.0,633,YES,1743.0,YES,1,4.97,-0.171044503,67,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,484,5751985.0,605,NO,508.0,YES,2,5.73,1.525836467,32,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,54,3083837.0,568,YES,251.0,YES,2,5.34,-0.7224238,65,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,71,31292779.0,435,YES,5960.0,NO,4,3.55,0.781181109,65,YES,Incorrectly Identified as Clean
+Git Repository,.com,1MB/s to 10MB/s,110,8298808.0,614,NO,792.0,YES,2,4.71,-0.875255339,84,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,741,6525637.0,541,NO,590.0,YES,2,5.55,-1.321284041,62,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,128,8778581.0,612,NO,850.0,YES,2,4.17,1.332132636,73,NO,Incorrecty Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,85,6650545.0,596,YES,604.0,NO,2,5.39,0.479387326,89,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,950,7119359.0,487,YES,655.0,NO,2,4.99,-0.062488388,62,NO,Correctly Identified as Clean
+Git Repository,.net,1MB/s to 10MB/s,75,3165150.0,543,YES,258.0,YES,2,4.57,0.335204168,80,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,289,15214590.0,505,YES,1787.0,YES,2,4.93,-0.128218959,62,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,243,272595.0,546,NO,20.0,YES,2,5.52,-1.569619422,52,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,581,7442252.0,663,YES,692.0,YES,2,5.26,-0.53096823,76,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,785,18496549.0,547,NO,2398.0,YES,1,5.24,0.206495024,84,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,490,5014475.0,586,YES,433.0,NO,2,5.13,0.583154937,72,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,80,4730770.0,554,YES,405.0,NO,1,4.86,-0.349961216,59,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,99,3850874.0,545,YES,321.0,YES,2,5.32,1.579770845,78,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,22,8743476.0,422,NO,845.0,YES,1,4.37,0.628841458,75,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.org,100KB/s to 1MB/s,540,13493538.0,689,NO,1505.0,NO,1,5.18,2.264172686,74,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,213,12900512.0,458,NO,1414.0,NO,2,4.24,-1.504669396,69,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,254,13367053.0,349,YES,1485.0,YES,2,4.78,1.238681471,61,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,283,3057777.0,687,NO,249.0,NO,2,5.35,-0.27948746,80,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,203,3238682.0,451,NO,265.0,NO,1,5.25,1.908276324,74,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,126,7757668.0,433,NO,728.0,YES,2,4.77,0.160332271,86,YES,Incorrectly Identified as Clean
+University Web Pages,.com,100KB/s to 1MB/s,55,8231631.0,495,NO,784.0,YES,2,5.72,2.895264346,81,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,281,2712854.0,643,YES,218.0,YES,2,5.65,-0.455803423,82,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,199,6310860.0,600,YES,567.0,YES,2,4.37,-2.448439357,77,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,679,2511929.0,481,YES,201.0,YES,2,4.79,1.287238444,69,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,261,10424030.0,620,YES,1060.0,YES,1,5.63,0.381813468,56,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,198,7727211.0,592,NO,725.0,NO,2,4.32,0.060368309,72,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,141,6448112.0,610,NO,582.0,NO,1,5.53,0.631064868,62,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,323,10670963.0,666,NO,1093.0,YES,2,4.43,1.772410192,87,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,487,4957891.0,422,NO,428.0,YES,2,5.16,0.227179329,56,NO,Correctly Identified as Clean
+University Web Pages,.gov,100KB/s to 1MB/s,131,10934441.0,632,YES,1129.0,NO,2,5.18,1.659559101,79,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,89,9290135.0,507,NO,913.0,NO,1,4.94,0.398866391,71,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,Greater than 10MB/s,423,2340086.0,597,NO,186.0,NO,2,4.97,0.500991685,36,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,644,16577219.0,538,NO,,NO,2,4.55,0.175881447,51,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,245,313268.0,540,YES,23.0,YES,1,5.19,-0.879368602,75,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,43,5249958.0,580,NO,457.0,NO,1,4.53,1.378915212,62,NO,Correctly Identified as Clean
+Git Repository,.net,1MB/s to 10MB/s,146,7213202.0,495,YES,666.0,NO,2,4.54,-0.93790598,83,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,234,13301905.0,594,YES,1475.0,NO,1,5.17,-1.025951544,61,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,48,126159.0,733,NO,9.0,NO,1,5.16,1.013889963,68,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,727,10562129.0,616,YES,1079.0,YES,2,4.68,-0.531311771,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,542,33905626.0,494,YES,6985.0,YES,2,5.43,-1.260579293,62,YES,Correctly Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,204,5932599.0,620,YES,527.0,NO,2,5.82,-0.517893367,47,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,59,9941375.0,571,YES,996.0,NO,2,4.39,-0.696197462,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,136,19371021.0,437,NO,2578.0,NO,1,5.35,-0.567391665,87,NO,Correctly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,139,11063746.0,502,NO,1147.0,NO,1,5.12,0.758516557,50,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,467,13572613.0,481,NO,1518.0,NO,2,4.33,-0.901431651,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,390,25501439.0,462,NO,4081.0,YES,1,5.51,1.412375099,69,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,175,514539.0,383,NO,38.0,YES,3,4.44,1.000519662,54,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,74,6343032.0,600,NO,570.0,NO,1,5.19,0.61772804,50,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,118,1102026.0,703,NO,84.0,NO,2,5.89,-0.306540462,56,YES,Correctly Identified as Malware
+Git Repository,.com,100KB/s to 1MB/s,442,14944791.0,502,NO,1741.0,YES,3,4.71,2.673119406,68,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,362,3729561.0,630,NO,310.0,NO,2,5.17,-0.458060786,44,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,438,3952424.0,566,NO,331.0,NO,2,4.9,0.097640392,49,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,191,6596413.0,536,NO,598.0,YES,1,4.59,0.749108944,43,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,26,5225179.0,430,NO,454.0,YES,1,5.01,-0.930541143,89,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.edu,100KB/s to 1MB/s,468,11798079.0,452,YES,1251.0,YES,2,5.23,0.462991274,43,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,169,12317522.0,646,YES,1326.0,NO,2,4.69,-1.329292245,49,NO,Correctly Identified as Clean
+Git Repository,.gov,1MB/s to 10MB/s,270,18659655.0,669,NO,2431.0,NO,2,4.92,0.883669804,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,403,16153274.0,312,YES,1952.0,YES,1,4.82,-0.247156681,69,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,508,6346600.0,658,YES,571.0,NO,1,5.4,0.869186826,69,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,565,2169230.0,577,YES,172.0,YES,3,5.05,0.623580275,92,NO,Incorrecty Identified as Malware
+Git Repository,.gov,100KB/s to 1MB/s,38,8658662.0,684,YES,835.0,YES,3,4.3,-0.63381837,74,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,156,11862191.0,632,YES,1260.0,NO,1,5.48,-0.405782203,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,395,17166130.0,498,NO,2138.0,NO,2,4.76,0.177936628,59,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net.au,100KB/s to 1MB/s,562,3063489.0,571,YES,249.0,YES,4,5.25,0.94376062,72,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.org,100KB/s to 1MB/s,214,2414528.0,618,YES,193.0,NO,2,5.63,0.566215849,80,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,534,1046727.0,491,NO,80.0,YES,2,4.46,-0.072794322,81,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,180,9228057.0,594,YES,905.0,YES,1,4.5,-0.275295696,79,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,174,4405884.0,460,YES,374.0,YES,1,4.71,-0.056160714,49,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.edu,100KB/s to 1MB/s,49,7616289.0,650,NO,712.0,NO,1,5.52,-0.314883092,52,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,270,11838479.0,570,YES,1256.0,YES,1,4.39,-0.942740994,65,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,337,1347252.0,579,YES,104.0,NO,2,5.24,0.67890078,82,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,593,9610759.0,579,YES,954.0,NO,2,4.35,-1.461238479,85,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,113,11439605.0,655,NO,1200.0,YES,2,4.34,0.940602422,50,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,542,2357264.0,698,YES,188.0,NO,1,4.57,0.759031015,75,YES,Correctly Identified as Malware
+University Web Pages,.com,100KB/s to 1MB/s,159,5859402.0,608,YES,519.0,YES,3,5.44,1.609726487,68,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,57,4905503.0,450,YES,422.0,NO,2,5.63,0.541993959,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,342,23783072.0,714,YES,3615.0,NO,1,3.85,0.112521983,50,YES,Correctly Identified as Malware
+Git Repository,.com,100KB/s to 1MB/s,364,9111294.0,545,YES,891.0,NO,1,5.2,-1.904878696,74,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,293,4932222.0,625,YES,425.0,YES,1,5.18,-1.999632932,53,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,293,3060612.0,647,NO,249.0,YES,3,4.27,0.436939331,85,NO,Correctly Identified as Clean
+Git Repository,.edu,100KB/s to 1MB/s,474,8790751.0,574,NO,851.0,NO,1,4.48,1.051374832,61,NO,Correctly Identified as Clean
+Exposed Corporate Intranet Pages,.com,100KB/s to 1MB/s,167,2665103.0,610,NO,214.0,NO,1,5.32,-0.114834534,81,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,286,467638.0,436,YES,35.0,YES,2,5.21,-0.866435188,77,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,173,12234096.0,662,NO,1314.0,NO,3,5.68,0.129797525,58,YES,Incorrectly Identified as Clean
+Git Repository,.net,1MB/s to 10MB/s,146,4849822.0,611,NO,417.0,NO,1,4.56,-0.151175848,68,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,49,3561740.0,501,NO,294.0,NO,2,5.33,0.830625831,39,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,346,9113919.0,453,NO,891.0,YES,2,5.1,0.239159176,64,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,462,19322887.0,561,YES,2568.0,NO,1,4.61,0.077280249,82,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,190,12444022.0,709,NO,,YES,1,4.09,-1.278497773,87,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,669,7978828.0,604,NO,754.0,YES,1,4.67,-0.040769038,72,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,Greater than 10MB/s,304,12216180.0,561,NO,1311.0,YES,2,4.41,0.305943509,48,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,277,17072735.0,469,YES,,NO,2,4.65,0.519686239,57,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,72,16387109.0,768,NO,1994.0,NO,3,5.22,-0.81509397,65,YES,Incorrectly Identified as Clean
+Git Repository,.org,100KB/s to 1MB/s,679,11094675.0,599,NO,1151.0,YES,2,4.76,-0.996019945,31,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,285,3092431.0,589,YES,252.0,YES,3,5.26,0.010478648,85,YES,Incorrectly Identified as Clean
+Git Repository,.com,100KB/s to 1MB/s,532,6379429.0,554,NO,574.0,NO,1,5.31,0.642057456,74,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,127,6931363.0,547,YES,635.0,NO,2,4.58,-0.105516802,91,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,285,8130420.0,622,NO,,YES,1,4.42,-0.254815356,84,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,316,6845357.0,665,YES,625.0,NO,2,6.14,-0.109134369,95,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,475,11352069.0,712,NO,1187.0,NO,2,5.23,-1.35451733,98,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,320,13032266.0,573,YES,1434.0,YES,1,4.4,0.608534066,18,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,349,3208606.0,452,NO,262.0,NO,2,5.05,-1.703710264,62,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,622,1677111.0,576,NO,131.0,YES,1,4.87,-0.050764975,73,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,153,12314760.0,537,YES,1326.0,NO,2,5.13,-1.793940202,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,164,12525131.0,578,NO,1357.0,NO,1,5.11,0.041457812,64,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,268,1054607.0,431,NO,80.0,NO,3,4.79,1.799071151,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,436,19389730.0,548,NO,2582.0,NO,3,4.06,-0.471413797,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,560,2080251.0,607,YES,164.0,NO,3,5.14,-0.863360107,53,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,717,1003262.0,516,YES,76.0,YES,3,4.51,0.214698821,76,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,149,7085602.0,390,YES,652.0,YES,2,4.46,0.757064509,44,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,391,13947280.0,709,NO,1577.0,YES,3,4.51,-0.612348508,57,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,319,16721902.0,419,YES,2055.0,YES,2,5.75,-1.005156942,63,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,309,11564189.0,445,YES,1217.0,YES,1,5.5,1.058547125,78,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,212,9157527.0,565,YES,896.0,YES,2,5.24,1.914838531,67,YES,Correctly Identified as Malware
+Git Repository,.edu,100KB/s to 1MB/s,840,7421609.0,732,NO,690.0,NO,2,5.27,-1.254219411,86,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,254,22416481.0,527,NO,3270.0,YES,2,4.66,1.024277672,90,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.edu,100KB/s to 1MB/s,125,10722858.0,469,NO,1100.0,YES,3,6.0,2.084204893,66,YES,Incorrectly Identified as Clean
+Git Repository,.net,1MB/s to 10MB/s,90,2674902.0,619,NO,215.0,NO,1,4.37,-0.771067264,91,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,51,4998785.0,495,YES,432.0,YES,2,4.78,-0.985081406,74,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,356,100036.0,690,NO,7.0,YES,1,4.18,0.695304626,90,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,169,14996169.0,583,YES,,YES,1,4.97,0.144239199,84,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,250,4370755.0,643,YES,370.0,YES,1,5.26,-1.561316545,59,YES,Correctly Identified as Malware
+Git Repository,.gov,100KB/s to 1MB/s,417,11887478.0,466,NO,1263.0,NO,2,5.09,-1.361945171,48,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,167,2936596.0,445,NO,238.0,NO,2,4.43,0.346655377,64,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,123,2908943.0,418,NO,236.0,YES,2,5.41,-1.147436,70,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,392,5281179.0,663,NO,460.0,YES,3,4.24,1.261976973,37,NO,Correctly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,352,7116020.0,585,NO,655.0,NO,2,5.26,-0.278036867,85,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,53,5016305.0,631,YES,433.0,YES,1,4.81,-0.138393124,72,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,403,27348170.0,764,NO,4626.0,YES,3,3.87,0.858121988,85,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,95,11963545.0,582,YES,1274.0,YES,2,5.11,0.418785079,74,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,36,22129201.0,393,YES,,NO,3,4.08,-0.057286859,100,YES,Correctly Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,256,4466688.0,640,YES,380.0,YES,1,5.45,0.72889949,62,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,475,6671620.0,534,YES,606.0,YES,3,5.46,1.155966637,76,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,1MB/s to 10MB/s,145,1401245.0,493,YES,108.0,NO,2,4.72,-0.255717174,73,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,100,219261.0,688,YES,,YES,2,4.65,-0.288991837,71,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,571,3462776.0,650,NO,285.0,NO,1,5.77,0.597499934,82,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,207,12156582.0,521,YES,1303.0,YES,1,5.58,0.42003032,103,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,190,794763.0,625,YES,60.0,YES,1,4.76,-1.184282214,86,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,202,646740.0,449,YES,49.0,YES,1,4.4,1.416561136,56,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,503,3922967.0,564,YES,328.0,YES,3,5.5,-0.253870624,68,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,205,19376520.0,498,NO,2580.0,YES,2,5.69,-0.231184285,52,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,289,3540127.0,588,NO,,YES,2,4.53,-0.129449151,57,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,309,8575120.0,504,NO,,NO,2,5.56,1.384527477,86,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,601,16950148.0,514,NO,2098.0,NO,2,5.69,-1.451941568,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,668,10239441.0,674,YES,1036.0,YES,2,4.12,0.636105886,58,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.org,1MB/s to 10MB/s,138,5139299.0,464,NO,446.0,NO,1,4.5,0.596243499,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,417,18491870.0,363,NO,2397.0,YES,2,4.97,-0.3368867,40,YES,Correctly Identified as Malware
+Git Repository,.com,100KB/s to 1MB/s,334,28266966.0,779,NO,,YES,2,4.47,-0.449652578,82,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,349,14857460.0,668,YES,1727.0,YES,2,4.02,-1.688327151,58,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,219,3238273.0,565,YES,265.0,YES,1,5.1,0.77709546,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,223,17770350.0,480,YES,2254.0,YES,2,4.98,-0.257605752,73,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,231,5569512.0,624,NO,489.0,NO,3,5.52,1.776769879,60,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,169,15588119.0,765,NO,1852.0,NO,2,5.25,0.990411266,56,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,410,13655275.0,776,NO,1531.0,NO,1,5.25,-0.782426319,68,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,334,7471496.0,597,NO,695.0,NO,3,5.58,-2.352472804,61,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,484,2964402.0,525,NO,241.0,YES,2,5.22,1.603712147,50,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,551,7415874.0,622,NO,689.0,YES,2,5.81,-0.199211019,58,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,139,1743329.0,502,NO,136.0,YES,2,5.05,-0.946516008,54,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,Greater than 10MB/s,91,12935819.0,656,YES,1419.0,YES,2,4.23,-0.709882963,88,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,24,2660106.0,630,YES,214.0,YES,2,5.72,0.352017857,64,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,295,4415747.0,717,NO,375.0,NO,2,4.99,-0.432702835,77,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,91,14046544.0,633,YES,1593.0,YES,2,4.95,-0.791452902,58,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,385,550734.0,546,NO,41.0,NO,1,4.17,-0.247788916,62,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,364,20386726.0,739,YES,2798.0,YES,2,3.98,1.673331408,64,NO,Correctly Identified as Clean
+Git Repository,.net.au,1MB/s to 10MB/s,283,6035361.0,395,YES,538.0,YES,3,4.79,0.822572637,55,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,675,9655582.0,616,YES,960.0,NO,2,4.48,-1.726015889,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,124,14013055.0,530,NO,1588.0,YES,1,4.97,1.347047065,31,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,547,15336134.0,616,YES,1808.0,YES,3,5.24,-0.599860692,75,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,339,18281386.0,637,YES,2355.0,NO,1,5.38,1.049827705,66,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,194,14723869.0,518,NO,1704.0,NO,2,4.86,-0.419467763,67,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,184,6493154.0,538,YES,,NO,2,5.15,-1.400295393,70,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,350,4093411.0,657,YES,344.0,YES,2,4.46,-1.371883107,57,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,90,7223263.0,564,YES,667.0,YES,2,4.79,-0.001310132,63,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,45,6930868.0,614,NO,634.0,YES,2,4.3,-1.672621582,76,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,428,3964602.0,547,NO,332.0,YES,2,5.5,-1.821696599,50,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,293,3938084.0,498,NO,329.0,NO,1,5.05,1.994547976,78,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,207,14026532.0,442,NO,1590.0,YES,2,5.57,-0.432380969,75,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,193,573884.0,570,NO,43.0,YES,3,4.81,0.939688476,81,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,641,2217553.0,641,YES,176.0,YES,1,4.56,-0.362044372,62,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,47,2414533.0,438,YES,193.0,YES,3,5.1,0.650750593,46,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,349,6777288.0,493,NO,618.0,YES,2,4.63,1.29958927,66,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,353,11323607.0,577,NO,1183.0,YES,2,4.85,-0.662274482,62,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,615,10028431.0,676,NO,1008.0,YES,3,4.25,0.957300086,57,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,470,7752246.0,422,YES,727.0,YES,1,5.58,1.020595105,61,YES,Correctly Identified as Malware
+Git Repository,.gov,100KB/s to 1MB/s,159,3601514.0,579,YES,298.0,YES,1,4.51,-1.23726256,93,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,474,2638532.0,559,YES,212.0,NO,2,5.11,-0.276648265,57,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,122,9370891.0,731,NO,923.0,NO,3,5.49,1.32798288,70,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,68,9328133.0,567,YES,918.0,YES,1,4.08,1.019163726,86,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,154,21157232.0,632,NO,2971.0,YES,1,4.97,1.667845913,82,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,102,4253278.0,636,YES,359.0,YES,3,5.24,1.923730346,94,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,113,4550614.0,599,YES,388.0,YES,4,4.28,-0.588675323,53,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,75,387188.0,493,NO,29.0,NO,2,4.78,1.403412581,74,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,207,4120168.0,650,YES,346.0,NO,28,5.2,-0.93292693,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,194,1446057.0,518,YES,112.0,NO,2,5.01,-2.527515069,65,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,181,12537492.0,613,NO,1359.0,NO,2,5.22,-0.389670359,62,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,52,4293388.0,576,YES,363.0,NO,3,5.28,-0.055579898,77,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,80,9592231.0,655,NO,951.0,NO,2,4.87,-0.668042106,81,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,42,4225637.0,607,YES,356.0,YES,1,4.35,-2.477862104,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,46,6991756.0,615,NO,641.0,YES,2,4.74,-1.07383787,75,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,517,831824.0,566,NO,,YES,2,4.14,-0.209258302,43,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,390,6256809.0,547,YES,561.0,YES,2,4.53,0.603056519,50,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,93,11390752.0,544,NO,1193.0,YES,2,5.1,0.663279186,78,YES,Incorrectly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,598,9796920.0,65535,YES,978.0,NO,3,4.6,-0.862198118,87,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,690,4192913.0,666,YES,353.0,NO,2,5.79,0.430354665,66,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,183,1761667.0,550,NO,138.0,NO,1,5.44,-1.242718073,68,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,166,11073524.0,700,YES,1148.0,NO,2,5.29,0.971464503,84,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,375,8860896.0,577,YES,860.0,YES,2,4.51,0.172007718,66,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,179,15437015.0,363,YES,1826.0,YES,2,5.72,0.585330084,61,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,636,4191732.0,583,YES,353.0,NO,2,5.3,-0.457963167,83,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.com,Greater than 10MB/s,118,9791221.0,595,NO,977.0,YES,4,4.47,-0.011102238,65,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,1MB/s to 10MB/s,197,16919179.0,471,YES,2092.0,YES,3,4.81,0.940527529,42,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,299,9244742.0,657,NO,907.0,NO,1,5.07,-0.415905771,62,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,177,18486518.0,495,YES,2396.0,YES,2,5.18,-0.798898124,71,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,340,1258199.0,554,YES,97.0,YES,1,5.45,-1.354481153,70,NO,Correctly Identified as Clean
+University Web Pages,.net,100KB/s to 1MB/s,37,10891449.0,680,YES,1123.0,NO,3,5.34,0.18813131,64,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,367,307522.0,616,YES,23.0,NO,1,5.8,-0.918340883,78,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,315,3230552.0,630,YES,264.0,YES,2,4.45,-0.598077073,78,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,1030,11772966.0,467,YES,1247.0,YES,2,5.51,-0.04233107,71,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,402,3980111.0,595,NO,333.0,YES,2,5.2,0.388726314,64,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,331,776180.0,604,NO,59.0,YES,1,4.51,-0.014459716,63,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,379,577424.0,528,NO,43.0,YES,2,4.42,-0.387065267,82,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,723,8017771.0,289,NO,758.0,YES,2,4.71,-0.57823975,49,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,361,13725982.0,651,YES,1542.0,NO,1,5.34,-0.627014264,76,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,22,7332384.0,627,YES,,YES,3,5.92,-0.076845488,67,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,64,8258650.0,612,NO,787.0,YES,2,4.67,-0.694121493,61,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,315,3222891.0,461,NO,,NO,2,4.55,-0.742765012,67,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.org,100KB/s to 1MB/s,52,3400303.0,603,NO,280.0,YES,3,5.82,0.798389442,79,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,134,3014440.0,554,NO,,NO,2,4.58,0.461370567,72,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,524,3965096.0,482,YES,332.0,NO,1,4.55,0.356998584,104,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,71,4064159.0,593,YES,341.0,YES,1,5.41,1.078544493,83,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,172,30287235.0,481,YES,5597.0,NO,2,5.06,0.007083124,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,257,5006247.0,525,NO,432.0,YES,2,5.74,-1.505833835,65,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,261,1526291.0,636,NO,118.0,YES,1,4.49,-2.173296331,64,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,58,5700711.0,564,NO,503.0,YES,2,5.59,0.044297255,47,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,326,5721867.0,486,NO,505.0,YES,2,4.89,0.358542025,86,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,587,6448289.0,597,NO,582.0,YES,1,4.52,-0.57740883,64,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,1MB/s to 10MB/s,63,6993885.0,606,NO,,YES,2,4.82,1.038684167,50,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,320,3721.0,545,YES,0.0,YES,1,5.01,0.754834731,48,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,257,4798690.0,584,NO,412.0,NO,3,5.02,1.324370167,80,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,447,4130909.0,486,YES,347.0,YES,3,5.27,0.554984289,62,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,237,974547.0,663,NO,74.0,YES,1,5.57,1.494505929,76,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.org,100KB/s to 1MB/s,85,20077671.0,450,YES,2730.0,NO,2,4.75,0.327078872,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,547,2821488.0,645,YES,228.0,NO,2,4.87,0.46627679,84,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,527,6341738.0,566,YES,570.0,YES,1,4.55,1.247833725,57,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,355,4505212.0,652,NO,383.0,YES,4,5.32,-0.748129617,107,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,324,7315158.0,590,YES,677.0,YES,2,5.32,-1.52639878,92,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,251,25780466.0,595,YES,4160.0,NO,1,3.68,-1.472416771,93,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,217,5045599.0,621,YES,436.0,YES,2,5.43,-0.427226848,53,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,865,1853426.0,608,YES,,NO,2,4.59,-0.144014059,86,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,678,2089102.0,594,NO,165.0,YES,3,5.31,-0.173822462,51,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,73,22427764.0,564,NO,3272.0,NO,1,4.89,0.606164746,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,197,509387.0,622,YES,38.0,NO,2,5.15,2.912877895,41,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,68,249404.0,614,YES,18.0,YES,2,4.2,1.253902818,47,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,128,6795681.0,699,NO,,NO,2,5.23,-1.337387511,82,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,110,1924841.0,630,NO,151.0,YES,1,4.63,0.828170118,80,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,345,2737994.0,593,NO,,YES,2,5.5,0.240615697,61,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,123,21376887.0,366,NO,3022.0,NO,3,3.92,-1.355374514,45,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,180,6021288.0,583,YES,536.0,NO,1,4.89,0.553017253,68,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,130,1446008.0,668,NO,,NO,2,5.09,0.296236859,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,554,5920285.0,652,NO,526.0,YES,1,3.94,0.78468744,50,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,600,16794416.0,464,YES,2069.0,NO,2,4.87,1.066783652,87,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,259,10829087.0,575,YES,1115.0,YES,3,4.01,-1.527801621,33,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,124,15907136.0,492,NO,1908.0,NO,1,4.48,0.792063624,70,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,98,520904.0,626,NO,39.0,YES,1,5.6,0.761788193,58,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,131,5106784.0,605,NO,,YES,1,4.86,1.063122217,69,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,278,3550166.0,675,YES,,YES,2,4.09,-0.925489108,75,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,673,4565953.0,544,NO,389.0,NO,1,4.88,-1.952319329,89,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,43,17319470.0,533,YES,2167.0,NO,2,5.13,1.030230616,73,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,185,13062048.0,310,YES,1438.0,NO,2,4.3,1.444813484,86,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,257,2992780.0,609,NO,243.0,YES,1,5.28,-0.884863635,94,YES,Correctly Identified as Malware
+University Web Pages,.gov,100KB/s to 1MB/s,270,1356509.0,561,NO,,YES,2,5.59,-1.042059814,66,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,378,1354609.0,591,NO,104.0,YES,1,5.21,1.382303808,84,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,71,5689406.0,719,YES,502.0,NO,2,4.77,-0.949611996,63,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,208,14625096.0,629,YES,1688.0,YES,3,4.52,0.465093583,100,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,166,4738355.0,591,YES,406.0,YES,3,4.6,-0.643148015,91,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,1MB/s to 10MB/s,57,477050.0,263,NO,36.0,YES,4,4.64,1.353898896,90,YES,Incorrectly Identified as Clean
+Exposed Corporate Intranet Pages,.net,100KB/s to 1MB/s,519,3630935.0,638,YES,,NO,2,5.38,0.277728352,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,153,16785737.0,456,YES,,NO,1,4.2,0.250903359,42,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,177,14702713.0,560,NO,1701.0,NO,1,5.69,-0.29419315,71,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,292,13628384.0,588,YES,1526.0,YES,2,5.02,0.637663534,80,YES,Incorrectly Identified as Clean
+Git Repository,.com,100KB/s to 1MB/s,282,12581600.0,632,YES,1365.0,YES,1,4.52,0.406071912,60,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,152,8407202.0,486,NO,805.0,NO,1,5.58,0.362014998,73,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,179,7202274.0,712,NO,665.0,NO,2,5.39,-1.233021903,37,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,515,14724578.0,587,YES,1704.0,NO,1,5.34,0.775716952,60,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,342,9907695.0,499,YES,992.0,YES,1,5.47,-1.175299761,80,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,285,18366547.0,561,NO,2372.0,NO,1,4.12,0.465961731,41,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,203,3583281.0,594,NO,296.0,YES,2,5.7,-0.198319842,81,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,102,244655.0,586,NO,18.0,YES,1,5.58,-0.074859424,77,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,108,5029234.0,642,NO,435.0,NO,2,5.74,2.096189693,110,YES,Incorrectly Identified as Clean
+Git Repository,.com,1MB/s to 10MB/s,600,9001.0,536,YES,0.0,NO,2,4.97,0.408210737,92,NO,Correctly Identified as Clean
+Linked to Web Search Advertisment,.com,1MB/s to 10MB/s,162,12990264.0,517,NO,1427.0,NO,3,4.38,-2.207093968,48,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,359,6731348.0,694,NO,612.0,YES,2,5.02,1.822296543,74,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,218,8290626.0,613,YES,,YES,3,4.16,-0.15201256,88,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,156,235542.0,478,NO,17.0,YES,1,5.17,0.629595268,41,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,63,4466769.0,565,YES,380.0,YES,1,5.35,0.915823103,50,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,867,3898582.0,658,NO,326.0,YES,2,4.4,2.300130825,56,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,448,2952188.0,579,YES,239.0,YES,2,5.09,0.366641854,69,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,81,14959219.0,556,NO,1744.0,NO,2,4.9,-0.369545751,63,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,204,4223212.0,688,YES,356.0,NO,2,5.21,1.135460158,58,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,52,6704071.0,554,YES,610.0,YES,2,4.85,-0.66395272,60,YES,Correctly Identified as Malware
+Git Repository,.edu,100KB/s to 1MB/s,323,5133340.0,865,NO,,NO,1,5.91,-1.041231281,49,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,106,13856651.0,630,NO,1563.0,NO,2,4.84,0.341765749,67,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,271,5273749.0,604,NO,459.0,NO,2,4.42,-0.247634246,100,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,299,10099087.0,541,YES,1017.0,YES,2,5.37,0.784881613,66,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,65,7330365.0,629,YES,679.0,YES,2,3.86,0.172579603,92,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,285,1572420.0,537,YES,122.0,YES,2,5.29,1.358171291,67,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,408,6207116.0,579,NO,556.0,NO,2,5.66,-1.934184665,71,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,457,10029143.0,540,YES,1008.0,YES,1,5.21,-0.965337992,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,248,11607649.0,686,YES,1223.0,YES,2,4.55,1.199509136,83,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,88,14323005.0,569,NO,1638.0,NO,2,5.44,-0.460442539,77,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,407,2099282.0,646,YES,166.0,YES,1,4.52,-0.435167738,44,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.gov,100KB/s to 1MB/s,241,1694431.0,531,NO,132.0,NO,2,5.17,-1.805868158,62,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,567,7059246.0,689,YES,649.0,YES,3,3.49,-0.419643654,67,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,368,14490947.0,549,YES,1666.0,NO,2,5.33,0.013762179,77,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,54,11026715.0,765,NO,1142.0,NO,1,5.88,0.036661948,62,YES,Incorrectly Identified as Clean
+Wordpress Powered Web Site,.gov,1MB/s to 10MB/s,296,439327.0,527,NO,33.0,YES,3,4.57,-1.617973255,69,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,51,10137772.0,717,NO,1022.0,YES,2,4.26,0.205060018,66,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,167,3940858.0,653,NO,330.0,YES,2,4.5,0.329642517,55,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,118,4383326.0,466,NO,,YES,2,4.54,-1.212510452,59,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,123,6134954.0,623,YES,548.0,NO,1,5.47,-1.695706021,62,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,161,14085719.0,702,NO,1599.0,YES,2,3.82,-0.336197195,77,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.org,100KB/s to 1MB/s,558,2459053.0,633,NO,196.0,YES,2,4.31,-0.316311492,86,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,554,24801939.0,751,YES,3887.0,YES,2,4.04,1.314535971,77,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,445,3099376.0,549,YES,253.0,YES,2,5.04,0.673023969,72,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,261,21523132.0,651,NO,3056.0,YES,2,4.93,0.513998532,78,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,201,8373344.0,678,YES,801.0,YES,2,4.77,0.925917136,80,NO,Incorrecty Identified as Malware
+Git Repository,.net,100KB/s to 1MB/s,259,1021304.0,471,NO,78.0,YES,2,5.46,0.287107176,59,NO,Incorrecty Identified as Malware
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,218,6167287.0,580,YES,552.0,YES,1,5.28,-2.051921271,74,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,113,5083743.0,673,YES,440.0,YES,2,5.04,-0.485993993,71,YES,Incorrectly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,281,6310870.0,652,NO,567.0,NO,4,5.55,1.836905681,46,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.net,1MB/s to 10MB/s,486,1702651.0,727,NO,133.0,NO,2,5.19,0.597042666,64,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,240,7978683.0,719,YES,754.0,NO,2,5.67,2.413836024,77,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.gov,1MB/s to 10MB/s,467,4376312.0,414,NO,371.0,YES,2,4.51,0.111806534,85,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,371,7853097.0,759,NO,739.0,NO,2,4.87,-1.479838479,78,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,466,4390713.0,618,YES,372.0,NO,2,5.13,-0.592683654,67,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,160,3457476.0,597,NO,285.0,NO,2,5.92,-0.405679155,67,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,211,8216182.0,599,NO,782.0,NO,3,5.11,-2.15089004,87,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,171,1945899.0,623,YES,153.0,NO,1,5.55,0.856415811,63,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,125,20486543.0,600,NO,2820.0,NO,3,5.0,-0.241324554,98,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,182,2136444.0,564,YES,169.0,NO,1,4.91,-0.805074497,83,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,180,17901267.0,591,YES,2280.0,YES,1,4.79,-0.099026769,66,NO,Correctly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,104,5912281.0,598,NO,525.0,YES,2,4.48,-2.270827918,67,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,121,19123915.0,481,NO,2527.0,YES,1,5.11,-0.135230506,99,YES,Correctly Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,133,530849.0,560,NO,40.0,NO,2,5.47,-0.480932939,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,201,18488556.0,618,NO,,NO,2,4.96,0.183484637,56,NO,Correctly Identified as Clean
+Git Repository,.net,100KB/s to 1MB/s,413,6464711.0,602,YES,584.0,NO,2,5.32,-0.812675748,67,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,56,12974933.0,430,NO,1425.0,YES,2,5.37,-1.036415211,62,YES,Correctly Identified as Malware
+Git Repository,.com,100KB/s to 1MB/s,359,2327950.0,568,NO,185.0,YES,2,5.47,1.245143308,60,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,586,710387.0,494,NO,53.0,YES,2,5.33,0.551076644,65,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,616,1615960.0,543,NO,126.0,YES,3,5.43,1.009027892,77,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,1MB/s to 10MB/s,142,5574851.0,506,NO,490.0,YES,1,4.77,-0.12722016,88,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,742,5204131.0,532,YES,452.0,YES,1,5.45,0.858492885,102,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,478,5567179.0,540,NO,489.0,NO,2,5.35,-0.30276972,54,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,100KB/s to 1MB/s,91,4225009.0,556,NO,356.0,NO,1,5.75,-0.698698963,83,NO,Incorrecty Identified as Malware
+Wordpress Powered Web Site,.com,100KB/s to 1MB/s,281,13936177.0,748,YES,1575.0,YES,2,4.56,0.283427782,84,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,241,12386242.0,566,YES,1336.0,NO,2,4.71,-0.957617264,61,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,752,21932139.0,476,YES,3153.0,NO,2,3.81,-0.789342516,87,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.edu,100KB/s to 1MB/s,166,8493988.0,527,YES,,NO,3,5.4,1.75825721,51,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.edu,100KB/s to 1MB/s,460,7664417.0,488,YES,717.0,NO,3,5.34,0.288982027,52,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,787,8987741.0,517,YES,875.0,YES,2,5.21,-1.20220808,79,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,316,4390762.0,540,YES,372.0,NO,3,5.37,-1.903596366,68,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,100KB/s to 1MB/s,44,5287781.0,534,YES,461.0,YES,1,5.73,-0.874209051,65,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,671,9925111.0,620,YES,994.0,NO,2,5.02,1.414215689,76,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,192,24405325.0,785,YES,3779.0,NO,1,4.83,-0.304336905,90,NO,Correctly Identified as Clean
+Wordpress Powered Web Site,.net,1MB/s to 10MB/s,374,22807899.0,535,NO,3366.0,NO,1,4.89,-1.257741223,66,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.gov,100KB/s to 1MB/s,399,1469303.0,652,NO,114.0,YES,2,5.51,-0.011806015,46,YES,Correctly Identified as Malware
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,44,14058405.0,610,YES,1595.0,YES,3,4.34,0.349797455,53,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.gov,100KB/s to 1MB/s,130,7527878.0,673,YES,702.0,YES,2,4.32,-0.023625888,95,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,1MB/s to 10MB/s,228,8925218.0,712,YES,868.0,NO,2,4.71,1.358958563,50,NO,Incorrecty Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,61,4364370.0,525,NO,370.0,YES,1,5.41,0.101080062,63,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,38,11244633.0,601,NO,1172.0,YES,3,4.63,0.61615241,46,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,66,19047608.0,619,NO,2511.0,YES,1,5.0,0.442291414,99,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.net,100KB/s to 1MB/s,509,5059088.0,588,NO,,NO,3,5.06,0.490861646,81,NO,Correctly Identified as Clean
+Well Known Software Download Websites,.net,100KB/s to 1MB/s,305,6023991.0,640,NO,537.0,NO,1,5.09,-0.488365699,89,NO,Correctly Identified as Clean
+Linked Directly to Google Search Result,.com,1MB/s to 10MB/s,669,6916548.0,443,NO,633.0,YES,1,4.81,-0.788990406,79,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,188,7122257.0,601,YES,656.0,NO,1,5.61,-0.688193958,55,YES,Incorrectly Identified as Clean
+Linked Directly to Google Search Result,.net,1MB/s to 10MB/s,387,9495056.0,600,YES,,NO,3,4.41,1.957911921,70,YES,Correctly Identified as Malware
+Well Known Software Download Websites,.com,100KB/s to 1MB/s,337,8534615.0,608,NO,820.0,YES,1,4.82,-0.832474832,78,YES,Correctly Identified as Malware
