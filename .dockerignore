@@ -1,0 +1,13 @@
+*.venv
+*.vscode
+*.metals
+
+terraform.tfvars
+
+__pycache__
+
+*.env
+*.csv
+*.json
+
+temp
