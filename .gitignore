@@ -4,10 +4,19 @@
 
 __pycache__
 
+*.terraform*
+terraform.tfvars
+*.tfstate*
+
+*.env
+*.log
 *.csv
 *.json
+!*.gitkeep
 
 !sample.csv
 !malware_file_detection.csv
+!sample.json
 
 temp
+logs/*
