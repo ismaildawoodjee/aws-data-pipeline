@@ -12,6 +12,7 @@ terraform.tfvars
 *.log
 *.csv
 *.json
+!create_emr.json
 !*.gitkeep
 
 !sample.csv

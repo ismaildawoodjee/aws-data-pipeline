@@ -2,7 +2,7 @@
 *.vscode
 *.metals
 
-terraform.tfvars
+terraform
 
 __pycache__
 
