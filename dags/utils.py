@@ -21,12 +21,12 @@ def _attach_datetime(filename: str, destination: str):
 
     Args:
         filename (str): absolute path to file, on the Docker container
-        destination (str): absolute destination where processed file is to be written
+        destination (str): absolute path where processed file is to be written
     """
     now = datetime.utcnow()
     todays_day = now.weekday()
 
-    if todays_day:
+    if todays_day == 0:
         return
 
     df = pd.read_csv(filename)
@@ -65,14 +65,14 @@ def _attach_datetime(filename: str, destination: str):
     df.to_csv(destination, index=False)
 
 
-def _local_to_s3(bucket_name: str, key: str, filename: str, remove_local: bool):
-    """Loads file from local system to S3 bucket. If the file needs to be removed
+def _local_file_to_s3(bucket_name: str, key: str, filename: str, remove_local: bool):
+    """Uploads file from local system to S3 bucket. If the file needs to be removed
     locally after transferring it to S3, specify `remove_local=True`.
 
     Args:
         bucket_name (str): S3 bucket name
         key (str): directory on S3 where file is going to be loaded
-        file_name (str): directory on local system where file is located
+        filename (str): directory on local system where file is located
         remove_local (bool): to delete local file
     """
     s3_hook = S3Hook()
