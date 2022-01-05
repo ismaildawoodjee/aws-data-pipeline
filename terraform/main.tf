@@ -16,7 +16,7 @@ variable "aws_secret_key" {}
 
 # variable "today" {
 #   type    = string
-#   default = formatdate("YYYY-MM-DD", timestamp())
+#   default = formatdate("YYYY-MM-DD", timestamp()) # this doesn't work
 # }
 
 # 1. Configure the AWS provider
@@ -126,7 +126,7 @@ resource "aws_emr_cluster" "malware_detection_emr" {
     bid_price      = "0.1" # in DOLLARS, NOT percentages
   }
   core_instance_group {
-    name           = "Core Nodes - 2"
+    name           = "Core Nodes - 1"
     instance_type  = "m5.xlarge"
     instance_count = 1
     bid_price      = "0.1"
