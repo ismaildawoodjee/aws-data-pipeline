@@ -3,10 +3,14 @@ to resources such as S3, EMR, Redshift, etc. Also includes a Python function to 
 file locally (attach datetime column weekly) before sending it off to the cloud."""
 
 import os
+import time
+import logging
 import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
 from airflow.hooks.S3_hook import S3Hook
+from airflow.exceptions import AirflowException
+from airflow.providers.amazon.aws.hooks.redshift import RedshiftHook
 
 
 def _attach_datetime(filename: str, destination: str):
@@ -37,8 +41,6 @@ def _attach_datetime(filename: str, destination: str):
     six_day_sizes: list[int] = [round(n) for n in np.random.normal(MEAN, STD, size=6)]
     one_week_sizes = six_day_sizes + [N - sum(six_day_sizes)]
 
-    # sanity check to ensure that all week's data adds up to the expected total
-    assert sum(one_week_sizes) == N
     days = range(-1, 6)
 
     all_timestamps = []
@@ -59,6 +61,9 @@ def _attach_datetime(filename: str, destination: str):
 
         start_timestamp = start_day.timestamp()
         all_timestamps += [start_timestamp + offs for offs in interval_offsets]
+
+    # sanity check to ensure that all week's data adds up to the expected total
+    assert sum(one_week_sizes) == len(all_timestamps) == N
 
     df.insert(0, "TimeReceived", all_timestamps)
     df["TimeReceived"] = [datetime.fromtimestamp(time) for time in df["TimeReceived"]]
@@ -81,3 +86,56 @@ def _local_file_to_s3(bucket_name: str, key: str, filename: str, remove_local: b
     if remove_local:
         if os.path.isfile(filename):
             os.remove(filename)
+
+
+def _resume_redshift_cluster(cluster_identifier: str):
+    """Resume a Redshift cluster when it is paused. Only resume the cluster when
+    queries need to be run or data has to be retrieved from somewhere (mainly from S3).
+
+    Args:
+        cluster_identifier (str): the name of the Redshift cluster
+
+    Raises:
+        AirflowException: if Redshift cannot be resumed, downstream tasks
+            should not proceed.
+    """
+    redshift_hook = RedshiftHook()
+    cluster_state = redshift_hook.cluster_status(cluster_identifier=cluster_identifier)
+
+    try:
+        redshift_hook.get_conn().resume_cluster(ClusterIdentifier=cluster_identifier)
+        while cluster_state != "available":
+            time.sleep(1)
+            cluster_state = redshift_hook.cluster_status(
+                cluster_identifier=cluster_identifier
+            )
+    except Exception as ex:
+        logging.warning(
+            f"Can't resume! Cluster {cluster_identifier} is in state: {cluster_state}."
+        )
+        raise AirflowException(ex)
+
+
+def _pause_redshift_cluster(cluster_identifier: str):
+    """Pause a Redshift cluster when it is in an active/available state. This is
+    to optimize costs - only pay for storage when paused and not for compute/running
+    the cluster.
+
+    Args:
+        cluster_identifier (str): the name of the Redshift cluster
+
+    Raises:
+        AirflowException: should fail the pipeline, and (possibly?) send an
+            alert to notify that your money is leaking.
+    """
+
+    redshift_hook = RedshiftHook()
+    cluster_state = redshift_hook.cluster_status(cluster_identifier=cluster_identifier)
+
+    try:
+        redshift_hook.get_conn().pause_cluster(ClusterIdentifier=cluster_identifier)
+    except Exception as ex:
+        logging.warning(
+            f"Can't pause! Cluster {cluster_identifier} is in state: {cluster_state}."
+        )
+        raise AirflowException(ex)
