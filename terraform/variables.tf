@@ -164,11 +164,40 @@ variable "emr_spark_env_config" {
 EOF
 }
 
+variable "redshift_role" {
+  type    = string
+  default = <<EOF
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Action": "sts:AssumeRole",
+      "Principal": {
+        "Service": "redshift.amazonaws.com"
+      },
+      "Effect": "Allow",
+      "Sid": ""
+    }
+  ]
+}
+EOF
+}
 
-
-# variable "emr_spark_steps" {
-#   type    = string
-#   default = <<EOF
-# [{"Name": "Setup EMR Debugging","ActionOnFailure": "TERMINATE_CLUSTER","HadoopJarStep": {"Jar": "command-runner.jar","Args": ["state-pusher-script"]}}]
-# EOF
-# }
+variable "redshift_s3_full_access_policy" {
+  type    = string
+  default = <<EOF
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "s3:*", 
+        "redshift:*"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
+EOF
+}
