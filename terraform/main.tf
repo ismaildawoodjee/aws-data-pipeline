@@ -13,6 +13,9 @@ terraform {
 # Actual keys are defined in `terraform.tfvars` and kept out of git
 variable "aws_access_key" {}
 variable "aws_secret_key" {}
+variable "redshift_username" {}
+variable "redshift_password" {}
+variable "redshift_database" {}
 
 # variable "today" {
 #   type    = string
@@ -131,4 +134,31 @@ resource "aws_emr_cluster" "malware_detection_emr" {
     instance_count = 1
     bid_price      = "0.1"
   }
+}
+
+# 4.a.i Create role for Redshift to perform operations
+resource "aws_iam_role" "redshift_role" {
+  name               = "redshift_role"
+  assume_role_policy = var.redshift_role
+}
+
+# 4.a.ii Create Redshift and S3 full access policies to allow Redshift to 
+# read from S3
+resource "aws_iam_role_policy" "redshift_s3_full_access_policy" {
+  name   = "redshift_s3_policy"
+  role   = aws_iam_role.redshift_role.id
+  policy = var.redshift_s3_full_access_policy
+}
+
+# 4.b Create Redshift cluster using the roles and policies defined in 4.a
+# 1-node cluster only, for development purposes
+resource "aws_redshift_cluster" "malware_detection_redshift" {
+  cluster_identifier  = "malware-files-datawarehouse"
+  master_username     = var.redshift_username
+  master_password     = var.redshift_password
+  database_name       = var.redshift_database
+  node_type           = "dc2.large"
+  cluster_type        = "single-node"
+  iam_roles           = [aws_iam_role.redshift_role.arn]
+  publicly_accessible = true
 }
