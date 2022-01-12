@@ -10,6 +10,7 @@ terraform.tfvars
 *.tfstate*
 
 *.env
+*.pem
 *.log
 *.csv
 *.json
