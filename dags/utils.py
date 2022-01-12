@@ -30,7 +30,7 @@ def _attach_datetime(filename: str, destination: str):
     now = datetime.utcnow()
     todays_day = now.weekday()
 
-    if todays_day == 0:
+    if todays_day:
         return
 
     df = pd.read_csv(filename)
@@ -103,6 +103,9 @@ def _resume_redshift_cluster(cluster_identifier: str):
     cluster_state = redshift_hook.cluster_status(cluster_identifier=cluster_identifier)
 
     try:
+        if cluster_state == "available":
+            return
+
         redshift_hook.get_conn().resume_cluster(ClusterIdentifier=cluster_identifier)
         while cluster_state != "available":
             time.sleep(1)
@@ -128,11 +131,13 @@ def _pause_redshift_cluster(cluster_identifier: str):
         AirflowException: should fail the pipeline, and (possibly?) send an
             alert to notify that your money is leaking.
     """
-
     redshift_hook = RedshiftHook()
     cluster_state = redshift_hook.cluster_status(cluster_identifier=cluster_identifier)
 
     try:
+        if cluster_state == 'paused':
+            return
+
         redshift_hook.get_conn().pause_cluster(ClusterIdentifier=cluster_identifier)
     except Exception as ex:
         logging.warning(
