@@ -135,7 +135,7 @@ def _pause_redshift_cluster(cluster_identifier: str):
     cluster_state = redshift_hook.cluster_status(cluster_identifier=cluster_identifier)
 
     try:
-        if cluster_state == 'paused':
+        if cluster_state == "paused":
             return
 
         redshift_hook.get_conn().pause_cluster(ClusterIdentifier=cluster_identifier)
