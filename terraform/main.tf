@@ -78,47 +78,47 @@ resource "aws_iam_role_policy" "iam_emr_profile_policy" {
 
 # 3.c Create the EMR cluster using the roles and policies defined above
 # This cluster will have 1 master node and 1 core/compute node running Hadoop + Spark
-#resource "aws_emr_cluster" "malware_detection_emr" {
-#  name                = "malware-detection-cluster"
-#  log_uri             = "s3://malware-detection-bucket/emr_logs/"
-#  service_role        = aws_iam_role.iam_emr_service_role.arn
-#  applications        = ["Hadoop", "Spark"]
-#  release_label       = "emr-6.4.0"
-#  configurations_json = var.emr_spark_env_config
-#
-#  step {
-#    action_on_failure = "CANCEL_AND_WAIT"
-#    name              = "Setup Hadoop Debugging"
-#    hadoop_jar_step {
-#      jar  = "command-runner.jar"
-#      args = ["state-pusher-script"]
-#    }
-#  }
-#
-#  lifecycle {
-#    ignore_changes = [step]
-#  }
-#  auto_termination_policy {
-#    idle_timeout = 60 # this doesn't terminate EMR after 60 seconds! takes 5 minutes
-#  }
-#  ec2_attributes {
-#    instance_profile = aws_iam_instance_profile.iam_emr_profile.arn
-#  }
-#
-#  # specifying bid_price automatically implies that I'm using a spot instance
-#  master_instance_group {
-#    name           = "Master Node - 1"
-#    instance_type  = "m5.xlarge"
-#    instance_count = 1
-#    bid_price      = "0.1" # in DOLLARS, NOT percentages
-#  }
-#  core_instance_group {
-#    name           = "Core Nodes - 1"
-#    instance_type  = "m5.xlarge"
-#    instance_count = 1
-#    bid_price      = "0.1"
-#  }
-#}
+resource "aws_emr_cluster" "malware_detection_emr" {
+ name                = "malware-detection-cluster"
+ log_uri             = "s3://malware-detection-bucket/emr_logs/"
+ service_role        = aws_iam_role.iam_emr_service_role.arn
+ applications        = ["Hadoop", "Spark"]
+ release_label       = "emr-6.4.0"
+ configurations_json = var.emr_spark_env_config
+
+ step {
+   action_on_failure = "CANCEL_AND_WAIT"
+   name              = "Setup Hadoop Debugging"
+   hadoop_jar_step {
+     jar  = "command-runner.jar"
+     args = ["state-pusher-script"]
+   }
+ }
+
+ lifecycle {
+   ignore_changes = [step]
+ }
+ auto_termination_policy {
+   idle_timeout = 60 # this doesn't terminate EMR after 60 seconds! takes 5 minutes
+ }
+ ec2_attributes {
+   instance_profile = aws_iam_instance_profile.iam_emr_profile.arn
+ }
+
+ # specifying bid_price automatically implies that I'm using a spot instance
+ master_instance_group {
+   name           = "Master Node - 1"
+   instance_type  = "m5.xlarge"
+   instance_count = 1
+   bid_price      = "0.1" # in DOLLARS, NOT percentages
+ }
+ core_instance_group {
+   name           = "Core Nodes - 1"
+   instance_type  = "m5.xlarge"
+   instance_count = 1
+   bid_price      = "0.1"
+ }
+}
 
 # 4.a.i Create role for Redshift to perform operations
 resource "aws_iam_role" "redshift_role" {
