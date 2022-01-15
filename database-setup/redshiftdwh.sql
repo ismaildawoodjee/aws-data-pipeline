@@ -3,20 +3,20 @@
 DROP TABLE IF EXISTS public.malware_file;
 
 CREATE TABLE public.malware_file (
-    TimeReceived TIMESTAMP,
-    DownloadSource TEXT,
-    TopLevelDomain TEXT,
-    DownloadSpeed TEXT,
-    PingTimeToServer INT,
-    FileSizeBytes NUMERIC,
-    HowManyTimesFileSeen INT,
-    ExecutableCodeMaybePresentInHeaders TEXT,
-    CallsToLowLevelSystemLibraries NUMERIC,
-    EvidenceOfCodeObfuscation TEXT,
-    ThreadsStarted INT,
-    MeanWordLengthOfExtractedStrings NUMERIC,
-    SimilarityScore NUMERIC,
-    CharactersInUrl INT,
-    ActuallyMalicious TEXT,
-    InitialStatisticalAnalysis TEXT
+    time_received TIMESTAMP,
+    download_source TEXT,
+    top_level_domain TEXT,
+    download_speed TEXT,
+    ping_time_to_server INT,
+    file_size_bytes NUMERIC,
+    how_many_times_file_seen INT,
+    executable_code_maybe_present_in_headers TEXT,
+    calls_to_low_level_system_libraries NUMERIC,
+    evidence_of_code_obfuscation TEXT,
+    threads_started INT,
+    mean_word_length_of_extracted_strings NUMERIC,
+    similarity_score NUMERIC,
+    characters_in_url INT,
+    actually_malicious TEXT,
+    initial_statistical_analysis TEXT
 );
