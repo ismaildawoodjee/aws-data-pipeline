@@ -20,7 +20,6 @@ terraform.tfvars
 !sample.csv
 !dated_sample.csv
 !malware_file_detection.csv
-# !sample.json
 
-# temp
+temp
 logs/*
