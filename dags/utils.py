@@ -1,6 +1,7 @@
-"""Utility functions to connect with AWS infrastructure and/or transfer local files 
-to resources such as S3, EMR, Redshift, etc. Also includes a Python function to process 
-file locally (attach datetime column weekly) before sending it off to the cloud."""
+"""Utility functions to connect with AWS infrastructure and/or transfer local
+files to resources such as S3, and to pause/resume the Redshift cluster. Also 
+includes a Python function to process file locally (attach datetime column weekly) 
+before sending it off to the cloud."""
 
 import os
 import time
@@ -139,6 +140,11 @@ def _pause_redshift_cluster(cluster_identifier: str):
             return
 
         redshift_hook.get_conn().pause_cluster(ClusterIdentifier=cluster_identifier)
+        while cluster_state != "paused":
+            time.sleep(1)
+            cluster_state = redshift_hook.cluster_status(
+                cluster_identifier=cluster_identifier
+            )
     except Exception as ex:
         logging.warning(
             f"Can't pause! Cluster {cluster_identifier} is in state: {cluster_state}."
