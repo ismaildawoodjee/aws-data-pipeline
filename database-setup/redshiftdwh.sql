@@ -3,7 +3,7 @@
 DROP TABLE IF EXISTS public.malware_file;
 
 CREATE TABLE public.malware_file (
-    time_received TIMESTAMP,
+    time_received TIMESTAMP UNIQUE,
     download_source TEXT,
     top_level_domain TEXT,
     download_speed TEXT,

@@ -1,8 +1,9 @@
 -- Only ran once. Putting column names in double-quotes allow Postgres to capitalize them.
 DROP TABLE IF EXISTS public.malware_file;
 
+-- TimeReceived is made unique to make use of Postgres' upsert capabilities
 CREATE TABLE public.malware_file (
-    "TimeReceived" TIMESTAMP,
+    "TimeReceived" TIMESTAMP UNIQUE,
     "DownloadSource" TEXT,
     "TopLevelDomain" TEXT,
     "PingTimeToServer" INT,
