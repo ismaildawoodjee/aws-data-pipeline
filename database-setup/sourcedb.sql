@@ -23,4 +23,4 @@ CREATE TABLE threats.malware_file (
 
 COPY threats.malware_file
 FROM
-  '/source-data/dated_sample.csv' CSV DELIMITER ',' HEADER;
+  '/source-data/dated_malware_detection.csv' CSV DELIMITER ',' HEADER;
