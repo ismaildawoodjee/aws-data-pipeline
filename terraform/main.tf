@@ -170,8 +170,8 @@ resource "aws_security_group" "superset_dashboard_ec2_sg" {
   }
   # allow traffic from the internet, but only on the Superset port
   ingress {
-    from_port        = 8088
-    to_port          = 8088
+    from_port        = 8080
+    to_port          = 8080
     protocol         = "tcp"
     cidr_blocks      = ["0.0.0.0/0"]
     ipv6_cidr_blocks = ["::/0"]
