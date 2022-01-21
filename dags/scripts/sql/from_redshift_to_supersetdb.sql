@@ -26,7 +26,9 @@ FROM
       "malwaredb"."public"."malware_file"
     WHERE
       time_received < CURRENT_DATE
-      AND time_received >= CURRENT_DATE - 1; -- this is the remote query ran on Redshift, using dblink
+      AND time_received >= CURRENT_DATE - 1
+    ORDER BY
+      time_received ASC; --> this is the remote query ran on Redshift, using dblink
 $REDSHIFT$) AS today_data (
   time_received TIMESTAMP,
   download_source TEXT,
@@ -40,4 +42,6 @@ $REDSHIFT$) AS today_data (
   characters_in_url INT,
   actually_malicious TEXT,
   initial_statistical_analysis TEXT
-);
+)
+ON CONFLICT ("TimeReceived") -- this clause ensures idempotency ("TimeReceived" has to be unique):
+DO NOTHING; -- do not insert if the row with the same "TimeReceived" value already exists
