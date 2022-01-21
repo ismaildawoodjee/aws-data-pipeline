@@ -31,7 +31,7 @@ def _attach_datetime(filename: str, destination: str):
     now = datetime.utcnow()
     todays_day = now.weekday()
 
-    if todays_day:
+    if todays_day != 0:
         return
 
     df = pd.read_csv(filename)
