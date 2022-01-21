@@ -19,7 +19,8 @@ terraform.tfvars
 
 !sample.csv
 !dated_sample.csv
-!malware_file_detection.csv
+!malware_detection.csv
+!malware_files_sample.csv
 
 temp
 logs/*

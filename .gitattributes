@@ -1,1 +1,1 @@
-source-data/malware_file_detection.csv filter=lfs diff=lfs merge=lfs -text
+source-data/malware_detection.csv filter=lfs diff=lfs merge=lfs -text
