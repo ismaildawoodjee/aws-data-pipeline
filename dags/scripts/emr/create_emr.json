@@ -36,10 +36,10 @@
         "BidPrice": "0.1"
       },
       {
-        "Name": "Core Node(s) - 1",
+        "Name": "Core Node(s) - 2",
         "InstanceRole": "CORE",
         "InstanceType": "m5.xlarge",
-        "InstanceCount": 1,
+        "InstanceCount": 2,
         "Market": "SPOT",
         "BidPrice": "0.1"
       }

@@ -77,7 +77,7 @@ resource "aws_iam_role_policy" "iam_emr_profile_policy" {
 }
 
 # 3.c Create the EMR cluster using the roles and policies defined above
-# This cluster will have 1 master node and 1 core/compute node running Hadoop + Spark
+# This cluster will have 1 master node and 2 core/compute node running Hadoop + Spark
 resource "aws_emr_cluster" "malware_detection_emr" {
  name                = "malware-detection-cluster"
  log_uri             = "s3://malware-detection-bucket/emr_logs/"
@@ -113,9 +113,9 @@ resource "aws_emr_cluster" "malware_detection_emr" {
    bid_price      = "0.1" # in DOLLARS, NOT percentages
  }
  core_instance_group {
-   name           = "Core Nodes - 1"
+   name           = "Core Nodes - 2"
    instance_type  = "m5.xlarge"
-   instance_count = 1
+   instance_count = 2
    bid_price      = "0.1"
  }
 }
@@ -135,14 +135,15 @@ resource "aws_iam_role_policy" "redshift_s3_full_access_policy" {
 }
 
 # 4.b Create Redshift cluster using the roles and policies defined in 4.a
-# 1-node cluster only, for development purposes
+# 1-node cluster for development, at least 2 nodes for production
 resource "aws_redshift_cluster" "malware_detection_redshift" {
   cluster_identifier  = "malware-files-datawarehouse"
   master_username     = var.redshift_username
   master_password     = var.redshift_password
   database_name       = var.redshift_database
   node_type           = "dc2.large"
-  cluster_type        = "single-node"
+  cluster_type        = "multi-node"
+  number_of_nodes     = 2
   iam_roles           = [aws_iam_role.redshift_role.arn]
   publicly_accessible = true
   elastic_ip          = var.redshift_elastic_ip
