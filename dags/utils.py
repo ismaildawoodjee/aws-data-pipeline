@@ -16,7 +16,7 @@ from airflow.providers.amazon.aws.hooks.redshift import RedshiftHook
 
 def _attach_datetime(filename: str, destination: str):
     """Attach 7-day randomly spaced timestamps (sampled from a Gaussian distribution)
-    to each row in the malware_file_detection.csv file. The file has N = 165053 rows,
+    to each row in the malware_detection.csv file. The file has N = 165053 rows,
     so each day will have N/7 +/- N/70 rows (mean = N/7 and standard deviation = N/70).
     Purpose of doing this is to introduce some variability, so that there is more data
     on some days than on others, and also to demonstrate a daily batch process.
