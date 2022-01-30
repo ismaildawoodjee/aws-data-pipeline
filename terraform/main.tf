@@ -230,7 +230,7 @@ resource "aws_instance" "superset_dashboard_ec2" {
       "sudo apt update -y && sudo apt upgrade -y",
       "sudo docker run -d --name supersetdb -e POSTGRES_PASSWORD=${var.supersetdb_password} -p 5432:5432 postgres:latest",
       "sudo docker run -d --name superset -p 8080:8088 apache/superset:latest",
-      "sudo docker exec -it superset superset fab create-admin --username admin --firstname Ismail --lastname Dawoodjee --email ismail.dawoodjee27@gmail.com --password ${var.superset_password}",
+      "sudo docker exec -it superset superset fab create-admin --username admin --firstname Ismail --lastname Dawoodjee --email admin@admin.com --password ${var.superset_password}",
       "sudo docker exec -it superset superset db upgrade",
       "sudo docker exec -it superset superset init"
     ]
