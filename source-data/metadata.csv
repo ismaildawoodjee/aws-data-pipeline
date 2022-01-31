@@ -1,0 +1,17 @@
+Column,Type,Description
+TimeReceived,TIMESTAMP,"Random (and fictional) timestamp at which a sample file, malicious or otherwise, is downloaded and scanned"
+DownloadSource,TEXT,A description of where the sample file came from
+TopLevelDomain,TEXT,Top level domain of the website where the sample file came from
+DownloadSpeed,TEXT,Speed recorded when obtaining the sample file
+PingTimeToServer,INT,Ping time to the server recorded when accessing the sample
+FileSizeBytes,NUMERIC,The size of the sample file
+HowManyTimesFileSeen,INT,How many other times this sample file has been seen at other websites (and not downloaded)
+ExecutableCodeMaybePresentInHeaders,TEXT,The malware scanner has flagged the file as possibly containing executable code in file headers
+CallsToLowLevelSystemLibraries,NUMERIC,"When the file was opened or run, how many times were low-level Windows system libraries accessed"
+EvidenceOfCodeObfuscation,TEXT,The malware scanner indicates that the contents of the file may be obfuscated (making code unreadable)
+ThreadsStarted,INT,How many threads were started when this file was accessed or launched
+MeanWordLengthOfExtractedStrings,NUMERIC,Mean length of text strings extracted from file using Unix 'strings' program
+SimilarityScore,NUMERIC,A scoring system used to indicate a score of how similar the file is to other files recognised by the malware scanner
+CharactersInUrl,INT,"How long the URL is after the top-level domain part, e.g., .com/index.html is 10 characters"
+ActuallyMalicious,TEXT,The correct classification for the file
+InitialStatisticalAnalysis,TEXT,Classification results of an initial (and poorly done) statistical analysis
