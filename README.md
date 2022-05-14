@@ -1,5 +1,45 @@
 # AWS Batch Data Processing Pipeline
 
+```sh
+.
+├── dags
+│   ├── malware_detection.py
+│   ├── scripts
+│   │   ├── emr
+│   │   │   └── create_emr.json
+│   │   ├── spark
+│   │   │   └── malware_file_detection.py
+│   │   └── sql
+│   │       ├── extract_malware_files.sql
+│   │       └── from_redshift_to_supersetdb.sql
+│   └── utils.py
+├── database-setup
+│   ├── redshiftdwh.sql
+│   ├── sourcedb.sql
+│   └── supersetdb.sql
+├── source-data
+│   ├── temp
+│   │   ├── .gitkeep
+│   │   └── malware_files_sample.csv
+│   ├── .gitkeep
+│   ├── dated_sample.csv
+│   ├── malware_detection.csv
+│   └── sample.csv
+├── terraform
+│   ├── main.tf
+│   ├── superset_ec2_keypair.pem
+│   ├── terraform.tfstate
+│   ├── terraform.tfvars
+│   └── variables.tf
+├── .dockerignore
+├── .gitattributes
+├── .gitignore
+├── README.md
+├── docker-compose.yml
+├── .env
+└── requirements.txt
+```
+
 In this project, I built a data pipeline on AWS that performs daily batch processing. The final Terraform task spins up an
 EC2 instance on which a Postgres database and Superset dashboard are hosted. Public users can login via one of the
 usernames (and passwords) `public1`, `public2`, or `public3`, and explore the data or create their own dashboards.
@@ -47,48 +87,6 @@ access this dashboard, but cannot alter the visuals and cannot perform DML (Data
 database. Public users are also invited to create their own charts/dashboard and explore the data using the SQL editor.
 
 ![Dashboard about fictional malware files detection data](images/malware-detection-dashboard.png)
-
-**Repo directory structure:**
-
-```sh
-.
-├── dags
-│   ├── malware_detection.py
-│   ├── scripts
-│   │   ├── emr
-│   │   │   └── create_emr.json
-│   │   ├── spark
-│   │   │   └── malware_file_detection.py
-│   │   └── sql
-│   │       ├── extract_malware_files.sql
-│   │       └── from_redshift_to_supersetdb.sql
-│   └── utils.py
-├── database-setup
-│   ├── redshiftdwh.sql
-│   ├── sourcedb.sql
-│   └── supersetdb.sql
-├── source-data
-│   ├── temp
-│   │   ├── .gitkeep
-│   │   └── malware_files_sample.csv
-│   ├── .gitkeep
-│   ├── dated_sample.csv
-│   ├── malware_detection.csv
-│   └── sample.csv
-├── terraform
-│   ├── main.tf
-│   ├── superset_ec2_keypair.pem
-│   ├── terraform.tfstate
-│   ├── terraform.tfvars
-│   └── variables.tf
-├── .dockerignore
-├── .gitattributes
-├── .gitignore
-├── README.md
-├── docker-compose.yml
-├── .env
-└── requirements.txt
-```
 
 **Git commit labels:**
 
